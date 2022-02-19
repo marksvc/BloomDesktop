@@ -452,7 +452,7 @@
         <source xml:lang="en">You may not use this work for commercial purposes.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.NonCommercial</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="th" state="needs-translation">You may not use this work for commercial purposes.</target>
+        <target xml:lang="th" state="translated">ไม่อนุญาตให้จำหน่ายเพื่อประโยชน์เชิงธุรกิจ</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.PublicDomain" sil:dynamic="true">
         <source xml:lang="en">You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.</source>
