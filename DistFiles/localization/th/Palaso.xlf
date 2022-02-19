@@ -464,7 +464,7 @@
         <source xml:lang="en">For permission to reuse, contact the copyright holder.</source>
         <note>ID: MetadataDisplay.Licenses.NullLicense</note>
         <note>This is used when all we have is a copyright, no other license.</note>
-        <target xml:lang="th" state="needs-translation">For permission to reuse, contact the copyright holder.</target>
+        <target xml:lang="th" state="translated">หากมีการนำสื่อไบใช้ในโครงการใด ขอความกรุณาแจ้งให้เจ้าของลิขสิทธิ์</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.NoLicense">
         <source xml:lang="en">No license specified</source>
