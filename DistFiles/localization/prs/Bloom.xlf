@@ -3478,6 +3478,42 @@
         <note>ID: Errors.ZoneAlarm</note>
         <target xml:lang="prs" state="final">بلوم بطور درست روشن شده نمیتواند، و این نشانه در ماشین های که زون آلارم نصب شده، دیده شده است. نوت: غیر فعال کردن الارم زون کمک نمیکند. نه دوباره روشن کردن و خاموش کردن آن میکند. کدام چیز درنصب زون آلارم مشکل پیدا میکند، و تا حال فقط غیر فعال کردن آلارم زون مشکل را حل کرده است.</target>
       </trans-unit>
+      <trans-unit id="FontInformationPane.FontOkay">
+        <source xml:lang="en">The metadata inside this font indicates that it is legal to use for all Bloom purposes.</source>
+        <note>ID: FontInformationPane.FontOkay</note>
+        <note>This shows in the popup when hovering over a useable font.</note>
+        <target xml:lang="prs" state="needs-translation">The metadata inside this font indicates that it is legal to use for all Bloom purposes.</target>
+      </trans-unit>
+      <trans-unit id="FontInformationPane.FontUnknown">
+        <source xml:lang="en">Bloom cannot determine what rules govern the use of this font. Please read the license and make sure it allows embedding in ebooks and the web. Before publishing to bloomlibrary.org, you will probably have to make a special request to the Bloom team to investigate this font so that we can make sure we won't get in trouble for hosting it.</source>
+        <note>ID: FontInformationPane.FontUnknown</note>
+        <note>This shows in the popup when hovering over a font when Bloom can't determine if it is useable legally.</note>
+        <target xml:lang="prs" state="needs-translation">Bloom cannot determine what rules govern the use of this font. Please read the license and make sure it allows embedding in ebooks and the web. Before publishing to bloomlibrary.org, you will probably have to make a special request to the Bloom team to investigate this font so that we can make sure we won't get in trouble for hosting it.</target>
+      </trans-unit>
+      <trans-unit id="FontInformationPane.FontUnsuitable">
+        <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web. Please use a different font.</source>
+        <note>ID: FontInformationPane.FontUnsuitable</note>
+        <note>This shows in the popup when hovering over a font that Bloom can't legally host on its website.</note>
+        <target xml:lang="prs" state="needs-translation">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web. Please use a different font.</target>
+      </trans-unit>
+      <trans-unit id="FontInformationPane.License">
+        <source xml:lang="en">License</source>
+        <note>ID: FontInformationPane.License</note>
+        <note>This shows in the popup as a link to the font's license.</note>
+        <target xml:lang="prs" state="needs-translation">License</target>
+      </trans-unit>
+      <trans-unit id="FontInformationPane.Styles">
+        <source xml:lang="en">Styles</source>
+        <note>ID: FontInformationPane.Styles</note>
+        <note>This shows in the popup before the types of variants in the font (e.g. bold, italic).</note>
+        <target xml:lang="prs" state="needs-translation">Styles</target>
+      </trans-unit>
+      <trans-unit id="FontInformationPane.Version">
+        <source xml:lang="en">Version</source>
+        <note>ID: FontInformationPane.Version</note>
+        <note>This shows in the popup before the font's version number.</note>
+        <target xml:lang="prs" state="needs-translation">Version</target>
+      </trans-unit>
       <trans-unit id="HelpMenu.AskAQuestionMenuItem" approved="yes">
         <source xml:lang="en">Ask a Question</source>
         <note>ID: HelpMenu.AskAQuestionMenuItem</note>
