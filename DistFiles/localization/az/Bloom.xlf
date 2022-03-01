@@ -3508,12 +3508,6 @@
         <note>This shows in the popup before the types of variants in the font (e.g. bold, italic).</note>
         <target xml:lang="az" state="needs-translation">Styles</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.Version">
-        <source xml:lang="en">Version</source>
-        <note>ID: FontInformationPane.Version</note>
-        <note>This shows in the popup before the font's version number.</note>
-        <target xml:lang="az" state="needs-translation">Version</target>
-      </trans-unit>
       <trans-unit id="HelpMenu.AskAQuestionMenuItem">
         <source xml:lang="en">Ask a Question</source>
         <note>ID: HelpMenu.AskAQuestionMenuItem</note>
