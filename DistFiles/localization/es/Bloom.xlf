@@ -3514,7 +3514,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">Version</source>
         <note>ID: FontInformationPane.Version</note>
         <note>This shows in the popup before the font's version number.</note>
-        <target xml:lang="es-ES" state="needs-translation">Version</target>
+        <target xml:lang="es-ES" state="translated">Versión</target>
       </trans-unit>
       <trans-unit id="HelpMenu.AskAQuestionMenuItem" approved="yes">
         <source xml:lang="en">Ask a Question</source>
