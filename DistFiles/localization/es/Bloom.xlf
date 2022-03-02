@@ -3502,13 +3502,13 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">License</source>
         <note>ID: FontInformationPane.License</note>
         <note>This shows in the popup as a link to the font's license.</note>
-        <target xml:lang="es-ES" state="needs-translation">License</target>
+        <target xml:lang="es-ES" state="translated">Licencia</target>
       </trans-unit>
       <trans-unit id="FontInformationPane.Styles">
         <source xml:lang="en">Styles</source>
         <note>ID: FontInformationPane.Styles</note>
         <note>This shows in the popup before the types of variants in the font (e.g. bold, italic).</note>
-        <target xml:lang="es-ES" state="needs-translation">Styles</target>
+        <target xml:lang="es-ES" state="translated">Estilos</target>
       </trans-unit>
       <trans-unit id="HelpMenu.AskAQuestionMenuItem" approved="yes">
         <source xml:lang="en">Ask a Question</source>
