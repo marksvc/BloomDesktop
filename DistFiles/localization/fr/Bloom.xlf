@@ -3484,17 +3484,17 @@
         <note>This shows in the popup when hovering over a useable font.</note>
         <target xml:lang="fr" state="final">Les métadonnées dans cette police indiquent qu'il est légal de l'utiliser à toute fin de Bloom.</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.FontUnknown">
+      <trans-unit id="FontInformationPane.FontUnknown" approved="yes">
         <source xml:lang="en">Bloom cannot determine what rules govern the use of this font. Please read the license and make sure it allows embedding in ebooks and the web. Before publishing to bloomlibrary.org, you will probably have to make a special request to the Bloom team to investigate this font so that we can make sure we won't get in trouble for hosting it.</source>
         <note>ID: FontInformationPane.FontUnknown</note>
         <note>This shows in the popup when hovering over a font when Bloom can't determine if it is useable legally.</note>
-        <target xml:lang="fr" state="translated">Bloom n'est pas en mesure de déterminer le règlement concernant l'emploi de cette police. Veuillez lire la licence et assurez-vous qu'elle permet son intégration dans des livres électroniques ainsi que sur le Web. Avant de publier dans bloomibrary.org, il est fort possible que vous devrez demander à l'équipe Bloom d'enquêter sur cette police afin de s'assurer que l'hébergement de cette police n'occasionne aucun problème.</target>
+        <target xml:lang="fr" state="final">Bloom ne peut pas déterminer le règlement concernant l'emploi de cette police. Veuillez lire la licence et assurez-vous qu'elle permet son intégration dans des livres électroniques ainsi que sur le Web. Avant de publier dans bloomlibrary.org, il est fort possible que vous devrez demander à l'équipe Bloom d'enquêter sur cette police afin de s'assurer que son hébergement n'occasionne aucun problème.</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.FontUnsuitable">
+      <trans-unit id="FontInformationPane.FontUnsuitable" approved="yes">
         <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web. Please use a different font.</source>
         <note>ID: FontInformationPane.FontUnsuitable</note>
         <note>This shows in the popup when hovering over a font that Bloom can't legally host on its website.</note>
-        <target xml:lang="fr" state="translated">Les métadonnées dans cette police nous informent qu'on n'a pas le droit de l'intégrer gratuitement dans les e-books et le web. Veuillez utiliser une police différente.</target>
+        <target xml:lang="fr" state="final">Les métadonnées dans cette police nous informent qu'on n'a pas le droit de l'intégrer gratuitement dans les e-books et le web. Veuillez utiliser une police différente.</target>
       </trans-unit>
       <trans-unit id="FontInformationPane.License" approved="yes">
         <source xml:lang="en">License</source>
