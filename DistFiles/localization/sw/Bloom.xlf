@@ -3483,7 +3483,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">The metadata inside this font indicates that it is legal to use for all Bloom purposes.</source>
         <note>ID: FontInformationPane.FontOkay</note>
         <note>This shows in the popup when hovering over a useable font.</note>
-        <target xml:lang="sw" state="needs-translation">The metadata inside this font indicates that it is legal to use for all Bloom purposes.</target>
+        <target xml:lang="sw" state="translated">Metadata iliyo ndani ya fonti hii yaonyesha kuwa ni halali kutumika kwa madhumuni yote ya Bloom.</target>
       </trans-unit>
       <trans-unit id="FontInformationPane.FontUnknown">
         <source xml:lang="en">Bloom cannot determine what rules govern the use of this font. Please read the license and make sure it allows embedding in ebooks and the web. Before publishing to bloomlibrary.org, you will probably have to make a special request to the Bloom team to investigate this font so that we can make sure we won't get in trouble for hosting it.</source>
