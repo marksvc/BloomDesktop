@@ -753,6 +753,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="CollectionTab.AdvancedToolStripMenuItem" approved="yes">
         <source xml:lang="en">Advanced</source>
         <note>ID: CollectionTab.AdvancedToolStripMenuItem</note>
+        <note>Obsolete for 5.3 and later</note>
         <target xml:lang="es-ES" state="final">Avanzado</target>
       </trans-unit>
       <trans-unit id="CollectionTab.Applying" approved="yes">
@@ -822,17 +823,34 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="CollectionTab.BookMenu.MakeBloomPack" approved="yes">
         <source xml:lang="en">Make Bloom Pack...</source>
         <note>ID: CollectionTab.BookMenu.MakeBloomPack</note>
+        <note>Obsolete for 5.3 and later</note>
         <target xml:lang="es-ES" state="final">Crear un Paquete de Bloom...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.Rename" approved="yes">
         <source xml:lang="en">Rename</source>
         <note>ID: CollectionTab.BookMenu.Rename</note>
+        <note>Obsolete for Bloom 5.3 and later</note>
         <target xml:lang="es-ES" state="final">Renombrar</target>
+      </trans-unit>
+      <trans-unit id="CollectionTab.BookMenu.RenameBook">
+        <source xml:lang="en">Rename Book</source>
+        <note>ID: CollectionTab.BookMenu.RenameBook</note>
+        <target xml:lang="es-ES" state="needs-translation">Rename Book</target>
+      </trans-unit>
+      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
+        <source xml:lang="en">Save as Bloom Pack (.bloomPack)</source>
+        <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
+        <target xml:lang="es-ES" state="needs-translation">Save as Bloom Pack (.bloomPack)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem" approved="yes">
         <source xml:lang="en">Save as single file (.bloomSource)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
         <target xml:lang="es-ES" state="final">Guardar como archivo único (.bloomSource)...</target>
+      </trans-unit>
+      <trans-unit id="CollectionTab.BookMenu.ShowInFileExplorer">
+        <source xml:lang="en">Show in File Explorer</source>
+        <note>ID: CollectionTab.BookMenu.ShowInFileExplorer</note>
+        <target xml:lang="es-ES" state="needs-translation">Show in File Explorer</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip" approved="yes">
         <source xml:lang="en">Update Book</source>
@@ -904,10 +922,21 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: CollectionTab.ConfirmRecycleDescription</note>
         <target xml:lang="es-ES" state="final">El libro '{0}'</target>
       </trans-unit>
+      <trans-unit id="CollectionTab.ContextMenu.More">
+        <source xml:lang="en">More</source>
+        <note>ID: CollectionTab.ContextMenu.More</note>
+        <target xml:lang="es-ES" state="needs-translation">More</target>
+      </trans-unit>
       <trans-unit id="CollectionTab.ContextMenu.OpenFolderOnDisk" approved="yes">
         <source xml:lang="en">Open Folder on Disk</source>
         <note>ID: CollectionTab.ContextMenu.OpenFolderOnDisk</note>
+        <note>Obsolete for Bloom 5.3 and later</note>
         <target xml:lang="es-ES" state="final">Abrir carpeta en el disco</target>
+      </trans-unit>
+      <trans-unit id="CollectionTab.ContextMenu.Troubleshooting">
+        <source xml:lang="en">Troubleshooting</source>
+        <note>ID: CollectionTab.ContextMenu.Troubleshooting</note>
+        <target xml:lang="es-ES" state="needs-translation">Troubleshooting</target>
       </trans-unit>
       <trans-unit id="CollectionTab.EditBookButton" approved="yes">
         <source xml:lang="en">Edit this book</source>
