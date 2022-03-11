@@ -752,6 +752,7 @@
       <trans-unit id="CollectionTab.AdvancedToolStripMenuItem">
         <source xml:lang="en">Advanced</source>
         <note>ID: CollectionTab.AdvancedToolStripMenuItem</note>
+        <note>Obsolete for 5.3 and later</note>
         <target xml:lang="vi" state="translated">Nâng cao</target>
       </trans-unit>
       <trans-unit id="CollectionTab.Applying">
@@ -821,17 +822,34 @@
       <trans-unit id="CollectionTab.BookMenu.MakeBloomPack">
         <source xml:lang="en">Make Bloom Pack...</source>
         <note>ID: CollectionTab.BookMenu.MakeBloomPack</note>
+        <note>Obsolete for 5.3 and later</note>
         <target xml:lang="vi" state="translated">Tạo Bloom Pack...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.Rename">
         <source xml:lang="en">Rename</source>
         <note>ID: CollectionTab.BookMenu.Rename</note>
+        <note>Obsolete for Bloom 5.3 and later</note>
         <target xml:lang="vi" state="needs-translation">Rename</target>
+      </trans-unit>
+      <trans-unit id="CollectionTab.BookMenu.RenameBook">
+        <source xml:lang="en">Rename Book</source>
+        <note>ID: CollectionTab.BookMenu.RenameBook</note>
+        <target xml:lang="vi" state="needs-translation">Rename Book</target>
+      </trans-unit>
+      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
+        <source xml:lang="en">Save as Bloom Pack (.bloomPack)</source>
+        <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
+        <target xml:lang="vi" state="needs-translation">Save as Bloom Pack (.bloomPack)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem">
         <source xml:lang="en">Save as single file (.bloomSource)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
         <target xml:lang="vi" state="needs-translation">Save as single file (.bloomSource)...</target>
+      </trans-unit>
+      <trans-unit id="CollectionTab.BookMenu.ShowInFileExplorer">
+        <source xml:lang="en">Show in File Explorer</source>
+        <note>ID: CollectionTab.BookMenu.ShowInFileExplorer</note>
+        <target xml:lang="vi" state="needs-translation">Show in File Explorer</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip">
         <source xml:lang="en">Update Book</source>
@@ -903,10 +921,21 @@
         <note>ID: CollectionTab.ConfirmRecycleDescription</note>
         <target xml:lang="vi" state="needs-translation">The book '{0}'</target>
       </trans-unit>
+      <trans-unit id="CollectionTab.ContextMenu.More">
+        <source xml:lang="en">More</source>
+        <note>ID: CollectionTab.ContextMenu.More</note>
+        <target xml:lang="vi" state="needs-translation">More</target>
+      </trans-unit>
       <trans-unit id="CollectionTab.ContextMenu.OpenFolderOnDisk">
         <source xml:lang="en">Open Folder on Disk</source>
         <note>ID: CollectionTab.ContextMenu.OpenFolderOnDisk</note>
+        <note>Obsolete for Bloom 5.3 and later</note>
         <target xml:lang="vi" state="translated">Mở thư mục trên ổ đĩa</target>
+      </trans-unit>
+      <trans-unit id="CollectionTab.ContextMenu.Troubleshooting">
+        <source xml:lang="en">Troubleshooting</source>
+        <note>ID: CollectionTab.ContextMenu.Troubleshooting</note>
+        <target xml:lang="vi" state="needs-translation">Troubleshooting</target>
       </trans-unit>
       <trans-unit id="CollectionTab.EditBookButton">
         <source xml:lang="en">Edit this book</source>
