@@ -835,12 +835,12 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="CollectionTab.BookMenu.RenameBook">
         <source xml:lang="en">Rename Book</source>
         <note>ID: CollectionTab.BookMenu.RenameBook</note>
-        <target xml:lang="es-ES" state="needs-translation">Rename Book</target>
+        <target xml:lang="es-ES" state="translated">Cambiar el nombre de libro</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
         <source xml:lang="en">Save as Bloom Pack (.bloomPack)</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
-        <target xml:lang="es-ES" state="needs-translation">Save as Bloom Pack (.bloomPack)</target>
+        <target xml:lang="es-ES" state="translated">Guardar como Paquete de Bloom (.bloomPack)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem" approved="yes">
         <source xml:lang="en">Save as single file (.bloomSource)...</source>
@@ -850,7 +850,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="CollectionTab.BookMenu.ShowInFileExplorer">
         <source xml:lang="en">Show in File Explorer</source>
         <note>ID: CollectionTab.BookMenu.ShowInFileExplorer</note>
-        <target xml:lang="es-ES" state="needs-translation">Show in File Explorer</target>
+        <target xml:lang="es-ES" state="translated">Mostrar en Explorador de Archivos</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip" approved="yes">
         <source xml:lang="en">Update Book</source>
@@ -925,7 +925,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="CollectionTab.ContextMenu.More">
         <source xml:lang="en">More</source>
         <note>ID: CollectionTab.ContextMenu.More</note>
-        <target xml:lang="es-ES" state="needs-translation">More</target>
+        <target xml:lang="es-ES" state="translated">Más</target>
       </trans-unit>
       <trans-unit id="CollectionTab.ContextMenu.OpenFolderOnDisk" approved="yes">
         <source xml:lang="en">Open Folder on Disk</source>
@@ -936,7 +936,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="CollectionTab.ContextMenu.Troubleshooting">
         <source xml:lang="en">Troubleshooting</source>
         <note>ID: CollectionTab.ContextMenu.Troubleshooting</note>
-        <target xml:lang="es-ES" state="needs-translation">Troubleshooting</target>
+        <target xml:lang="es-ES" state="translated">Solución de problemas</target>
       </trans-unit>
       <trans-unit id="CollectionTab.EditBookButton" approved="yes">
         <source xml:lang="en">Edit this book</source>
