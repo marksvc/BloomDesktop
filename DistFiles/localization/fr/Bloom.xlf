@@ -814,10 +814,10 @@
         <note>ID: CollectionTab.BookMenu.ExportToXMLForInDesign</note>
         <target xml:lang="fr" state="final">Exporter vers XML pour InDesign...</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.ImportContentFromSpreadsheet" approved="yes">
-        <source xml:lang="en">Import content from Spreadsheet...</source>
+      <trans-unit id="CollectionTab.BookMenu.ImportContentFromSpreadsheet">
+        <source xml:lang="en">Import Content from Spreadsheet...</source>
         <note>ID: CollectionTab.BookMenu.ImportContentFromSpreadsheet</note>
-        <target xml:lang="fr" state="final">Importer contenu depuis Feuille de Calcul...</target>
+        <target xml:lang="fr" state="translated">Importer contenu depuis Feuille de Calcul...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.MakeBloomPack" approved="yes">
         <source xml:lang="en">Make Bloom Pack...</source>
@@ -836,13 +836,13 @@
         <note>ID: CollectionTab.BookMenu.RenameBook</note>
         <target xml:lang="fr" state="final">Renommer le Livre</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem" approved="yes">
-        <source xml:lang="en">Save as Bloom Pack (.bloomPack)</source>
+      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
+        <source xml:lang="en">Save as Bloom Pack (*.BloomPack)</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
-        <target xml:lang="fr" state="final">Enregistrer en tant que Pack Bloom (.bloomPack)</target>
+        <target xml:lang="fr" state="translated">Enregistrer en tant que Pack Bloom (.bloomPack)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem">
-        <source xml:lang="en">Save as single file (.bloomSource)...</source>
+        <source xml:lang="en">Save as Single File (*.bloomSource)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
         <target xml:lang="fr" state="translated">Enregistrer en tant que fichier unique (.bloom)...</target>
       </trans-unit>
