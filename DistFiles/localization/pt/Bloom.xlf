@@ -815,7 +815,7 @@
         <target xml:lang="pt-PT" state="final">Exportar de XML para o InDesign...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.ImportContentFromSpreadsheet">
-        <source xml:lang="en">Import content from Spreadsheet...</source>
+        <source xml:lang="en">Import Content from Spreadsheet...</source>
         <note>ID: CollectionTab.BookMenu.ImportContentFromSpreadsheet</note>
         <target xml:lang="pt-PT" state="translated">Importar conteúdo da planilha...</target>
       </trans-unit>
@@ -837,12 +837,12 @@
         <target xml:lang="pt-PT" state="translated">Mudar o nome do livro</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
-        <source xml:lang="en">Save as Bloom Pack (.bloomPack)</source>
+        <source xml:lang="en">Save as Bloom Pack (*.BloomPack)</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
         <target xml:lang="pt-PT" state="translated">Salvar como Pacote Bloom (.bloomPack)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem">
-        <source xml:lang="en">Save as single file (.bloomSource)...</source>
+        <source xml:lang="en">Save as Single File (*.bloomSource)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
         <target xml:lang="pt-PT" state="translated">Salvar como arquivo único (.bloom)...</target>
       </trans-unit>
