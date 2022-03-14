@@ -831,25 +831,25 @@
         <note>Obsolete for Bloom 5.3 and later</note>
         <target xml:lang="fr" state="final">Renommer</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.RenameBook">
+      <trans-unit id="CollectionTab.BookMenu.RenameBook" approved="yes">
         <source xml:lang="en">Rename Book</source>
         <note>ID: CollectionTab.BookMenu.RenameBook</note>
-        <target xml:lang="fr" state="needs-translation">Rename Book</target>
+        <target xml:lang="fr" state="final">Renommer le Livre</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
+      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem" approved="yes">
         <source xml:lang="en">Save as Bloom Pack (.bloomPack)</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
-        <target xml:lang="fr" state="needs-translation">Save as Bloom Pack (.bloomPack)</target>
+        <target xml:lang="fr" state="final">Enregistrer en tant que Pack Bloom (.bloomPack)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem">
         <source xml:lang="en">Save as single file (.bloomSource)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
         <target xml:lang="fr" state="translated">Enregistrer en tant que fichier unique (.bloom)...</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.ShowInFileExplorer">
+      <trans-unit id="CollectionTab.BookMenu.ShowInFileExplorer" approved="yes">
         <source xml:lang="en">Show in File Explorer</source>
         <note>ID: CollectionTab.BookMenu.ShowInFileExplorer</note>
-        <target xml:lang="fr" state="needs-translation">Show in File Explorer</target>
+        <target xml:lang="fr" state="final">Afficher dans l'Explorateur de Fichiers</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip" approved="yes">
         <source xml:lang="en">Update Book</source>
@@ -932,10 +932,10 @@
         <note>Obsolete for Bloom 5.3 and later</note>
         <target xml:lang="fr" state="final">Ouvrir le dossier sur le disque</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.ContextMenu.Troubleshooting">
+      <trans-unit id="CollectionTab.ContextMenu.Troubleshooting" approved="yes">
         <source xml:lang="en">Troubleshooting</source>
         <note>ID: CollectionTab.ContextMenu.Troubleshooting</note>
-        <target xml:lang="fr" state="needs-translation">Troubleshooting</target>
+        <target xml:lang="fr" state="final">Dépannage</target>
       </trans-unit>
       <trans-unit id="CollectionTab.EditBookButton" approved="yes">
         <source xml:lang="en">Edit this book</source>
