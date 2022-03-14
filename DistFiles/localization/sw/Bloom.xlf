@@ -816,7 +816,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <target xml:lang="sw" state="final">Peleka kwa XML kwa mtindo wa ndani...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.ImportContentFromSpreadsheet">
-        <source xml:lang="en">Import content from Spreadsheet...</source>
+        <source xml:lang="en">Import Content from Spreadsheet...</source>
         <note>ID: CollectionTab.BookMenu.ImportContentFromSpreadsheet</note>
         <target xml:lang="sw" state="translated">Ingiza maudhui kutoka kwa Lahajedwali...</target>
       </trans-unit>
@@ -838,12 +838,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <target xml:lang="sw" state="needs-translation">Rename Book</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
-        <source xml:lang="en">Save as Bloom Pack (.bloomPack)</source>
+        <source xml:lang="en">Save as Bloom Pack (*.BloomPack)</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
-        <target xml:lang="sw" state="needs-translation">Save as Bloom Pack (.bloomPack)</target>
+        <target xml:lang="sw" state="needs-translation">Save as Bloom Pack (*.BloomPack)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem">
-        <source xml:lang="en">Save as single file (.bloomSource)...</source>
+        <source xml:lang="en">Save as Single File (*.bloomSource)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
         <target xml:lang="sw" state="translated">Hifadhi kama faili moja (bloom)...</target>
       </trans-unit>
