@@ -815,10 +815,10 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: CollectionTab.BookMenu.ExportToXMLForInDesign</note>
         <target xml:lang="es-ES" state="final">Exportar a XML para InDesign...</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.ImportContentFromSpreadsheet" approved="yes">
-        <source xml:lang="en">Import content from Spreadsheet...</source>
+      <trans-unit id="CollectionTab.BookMenu.ImportContentFromSpreadsheet">
+        <source xml:lang="en">Import Content from Spreadsheet...</source>
         <note>ID: CollectionTab.BookMenu.ImportContentFromSpreadsheet</note>
-        <target xml:lang="es-ES" state="final">Importar contenido de una hoja de cálculo...</target>
+        <target xml:lang="es-ES" state="translated">Importar contenido de una hoja de cálculo...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.MakeBloomPack" approved="yes">
         <source xml:lang="en">Make Bloom Pack...</source>
@@ -838,14 +838,14 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <target xml:lang="es-ES" state="translated">Cambiar el nombre de libro</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
-        <source xml:lang="en">Save as Bloom Pack (.bloomPack)</source>
+        <source xml:lang="en">Save as Bloom Pack (*.BloomPack)</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
         <target xml:lang="es-ES" state="translated">Guardar como Paquete de Bloom (.bloomPack)</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem" approved="yes">
-        <source xml:lang="en">Save as single file (.bloomSource)...</source>
+      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem">
+        <source xml:lang="en">Save as Single File (*.bloomSource)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
-        <target xml:lang="es-ES" state="final">Guardar como archivo único (.bloomSource)...</target>
+        <target xml:lang="es-ES" state="translated">Guardar como archivo único (.bloomSource)...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.ShowInFileExplorer">
         <source xml:lang="en">Show in File Explorer</source>
