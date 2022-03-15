@@ -4934,7 +4934,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: PublishTab.RecordVideo.Format</note>
       </trans-unit>
       <trans-unit id="PublishTab.RecordVideo.Instructions">
-        <source xml:lang="en">Use the red buttons above the book player to select the language and other settings.</source>
+        <source xml:lang="en">If your book has multiple languages or other options, you will see a row of red buttons. Use these to set up the book for recording.</source>
         <note>ID: PublishTab.RecordVideo.Instructions</note>
       </trans-unit>
       <trans-unit id="PublishTab.RecordVideo.MakeRecording">
