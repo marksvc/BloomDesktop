@@ -4187,6 +4187,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>{1} is a number with one decimal place, the number of megabytes the font file takes up</note>
         <target xml:lang="sw" state="final">Kupachika fonti {0} kwa gharama ya megabaiti {1}</target>
       </trans-unit>
+      <trans-unit id="PublishTab.Android.File.Progress.IncompatibleFontFileFormat" sil:dynamic="true">
+        <source xml:lang="en">This book has text in a font named \"{0}\". Bloom cannot use a font in this font's file format.</source>
+        <note>ID: PublishTab.Android.File.Progress.IncompatibleFontFileFormat</note>
+        <note>{0} is a font name</note>
+        <target xml:lang="sw" state="needs-translation">This book has text in a font named \"{0}\". Bloom cannot use a font in this font's file format.</target>
+      </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.LicenseForbids" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book has text in a font named \"{0}\". The license for \"{0}\" does not permit Bloom to embed the font in the book.</source>
         <note>ID: PublishTab.Android.File.Progress.LicenseForbids</note>
