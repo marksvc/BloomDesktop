@@ -4192,7 +4192,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">This book has text in a font named \"{0}\". Bloom cannot use a font in this font's file format.</source>
         <note>ID: PublishTab.Android.File.Progress.IncompatibleFontFileFormat</note>
         <note>{0} is a font name</note>
-        <target xml:lang="es-ES" state="needs-translation">This book has text in a font named \"{0}\". Bloom cannot use a font in this font's file format.</target>
+        <target xml:lang="es-ES" state="translated">Este libro tiene texto en un tipo de fuente llamado \"{0}\". Bloom no puede utilizar un tipo de fuente en el formato de archivo de esta fuente.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.LicenseForbids" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book has text in a font named \"{0}\". The license for \"{0}\" does not permit Bloom to embed the font in the book.</source>
