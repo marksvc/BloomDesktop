@@ -964,11 +964,11 @@
         <note>This string is obsolete as of Bloom version 5.3.</note>
         <target xml:lang="fr" state="final">Créer un pack Bloom</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.MakeBloomPackOfShellBooks">
+      <trans-unit id="CollectionTab.MakeBloomPackOfShellBooks" approved="yes">
         <source xml:lang="en">Make Bloom Pack of Shell Books</source>
         <note>Shell Books are books that are meant to be translated.</note>
         <note>ID: CollectionTab.MakeBloomPackOfShellBooks</note>
-        <target xml:lang="fr" state="needs-translation">Make Bloom Pack of Shell Books</target>
+        <target xml:lang="fr" state="final">Créer un Bloom Pack de Livres Canevas</target>
       </trans-unit>
       <trans-unit id="CollectionTab.MakeBookUsingThisTemplate" approved="yes">
         <source xml:lang="en">Make a book using this source</source>
@@ -4195,11 +4195,11 @@
         <note>{1} is a number with one decimal place, the number of megabytes the font file takes up</note>
         <target xml:lang="fr" state="final">Ajouter la police {0} qui exige {1} Mb</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.File.Progress.IncompatibleFontFileFormat" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.File.Progress.IncompatibleFontFileFormat" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book has text in a font named \"{0}\". Bloom cannot use a font in this font's file format.</source>
         <note>ID: PublishTab.Android.File.Progress.IncompatibleFontFileFormat</note>
         <note>{0} is a font name</note>
-        <target xml:lang="fr" state="needs-translation">This book has text in a font named \"{0}\". Bloom cannot use a font in this font's file format.</target>
+        <target xml:lang="fr" state="final">Ce livre contient du texte dans une police nommée \"{0}\". Bloom ne peut pas utiliser une police avec ce format de fichier de police.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.LicenseForbids" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book has text in a font named \"{0}\". The license for \"{0}\" does not permit Bloom to embed the font in the book.</source>
