@@ -969,7 +969,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <source xml:lang="en">Make Bloom Pack of Shell Books</source>
         <note>Shell Books are books that are meant to be translated.</note>
         <note>ID: CollectionTab.MakeBloomPackOfShellBooks</note>
-        <target xml:lang="es-ES" state="needs-translation">Make Bloom Pack of Shell Books</target>
+        <target xml:lang="es-ES" state="translated">Crear un Paquete de Bloom con libros prediseñados</target>
       </trans-unit>
       <trans-unit id="CollectionTab.MakeBookUsingThisTemplate" approved="yes">
         <source xml:lang="en">Make a book using this source</source>
