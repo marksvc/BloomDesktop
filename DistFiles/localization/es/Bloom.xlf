@@ -4999,7 +4999,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: PublishTab.RecordVideo.WillOpenRecordingWindow</note>
       </trans-unit>
       <trans-unit id="PublishTab.RecordVideo.YouTube">
-        <source xml:lang="en">YouTube (full HD)</source>
+        <source xml:lang="en">YouTube</source>
         <note>ID: PublishTab.RecordVideo.YouTube</note>
       </trans-unit>
       -->
