@@ -1130,6 +1130,12 @@
         <note>In a wizard, this button takes you to the previous step.</note>
         <target xml:lang="rw" state="needs-translation">Back</target>
       </trans-unit>
+      <trans-unit id="Common.BloomEnterpriseFeature">
+        <source xml:lang="en">Bloom Enterprise Feature</source>
+        <note>ID: Common.BloomEnterpriseFeature</note>
+        <note>This tooltip shows over the Bloom Enterprise icon.</note>
+        <target xml:lang="rw" state="needs-translation">Bloom Enterprise Feature</target>
+      </trans-unit>
       <trans-unit id="Common.Cancel">
         <source xml:lang="en">Cancel</source>
         <note>This is shown at the bottom of a dialog box. It is paired with an action button like "OK" and it means "do not do the action".  In English, this is the same as "Common.CancelProcess", but could be different in your language.</note>
