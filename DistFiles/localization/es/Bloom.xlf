@@ -1135,7 +1135,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <source xml:lang="en">Bloom Enterprise Feature</source>
         <note>ID: Common.BloomEnterpriseFeature</note>
         <note>This tooltip shows over the Bloom Enterprise icon.</note>
-        <target xml:lang="es-ES" state="needs-translation">Bloom Enterprise Feature</target>
+        <target xml:lang="es-ES" state="translated">Función de Bloom Empresarial</target>
       </trans-unit>
       <trans-unit id="Common.Cancel" approved="yes">
         <source xml:lang="en">Cancel</source>
