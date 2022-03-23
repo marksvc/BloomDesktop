@@ -1130,11 +1130,11 @@
         <note>In a wizard, this button takes you to the previous step.</note>
         <target xml:lang="fr" state="final">Retour</target>
       </trans-unit>
-      <trans-unit id="Common.BloomEnterpriseFeature">
+      <trans-unit id="Common.BloomEnterpriseFeature" approved="yes">
         <source xml:lang="en">Bloom Enterprise Feature</source>
         <note>ID: Common.BloomEnterpriseFeature</note>
         <note>This tooltip shows over the Bloom Enterprise icon.</note>
-        <target xml:lang="fr" state="needs-translation">Bloom Enterprise Feature</target>
+        <target xml:lang="fr" state="final">Fonctionnalité de Bloom Entreprise</target>
       </trans-unit>
       <trans-unit id="Common.Cancel" approved="yes">
         <source xml:lang="en">Cancel</source>
