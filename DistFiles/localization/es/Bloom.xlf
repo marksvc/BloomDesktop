@@ -4202,9 +4202,9 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <target xml:lang="es-ES" state="final">Incorporando la fuente {0} a un costo de {1} megabytes</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.IncompatibleFontFileFormat" sil:dynamic="true">
-        <source xml:lang="en">This book has text in a font named \"{0}\". Bloom cannot use a font in this font's file format.</source>
+        <source xml:lang="en">This book has text in a font named \"{0}\". Bloom cannot publish this font's format ({1}).</source>
         <note>ID: PublishTab.Android.File.Progress.IncompatibleFontFileFormat</note>
-        <note>{0} is a font name</note>
+        <note>{0} is a font name, {1} is a file extension (for example: .ttc)</note>
         <target xml:lang="es-ES" state="translated">Este libro tiene texto en una fuente llamado \"{0}\". Bloom no puede utilizar una fuente en el formato de archivo de esta fuente.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.LicenseForbids" sil:dynamic="true" approved="yes">
