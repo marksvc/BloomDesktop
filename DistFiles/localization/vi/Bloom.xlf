@@ -1134,7 +1134,7 @@
         <source xml:lang="en">Bloom Enterprise Feature</source>
         <note>ID: Common.BloomEnterpriseFeature</note>
         <note>This tooltip shows over the Bloom Enterprise icon.</note>
-        <target xml:lang="vi" state="needs-translation">Bloom Enterprise Feature</target>
+        <target xml:lang="vi" state="translated">Bloom cho Doanh Nghiệp</target>
       </trans-unit>
       <trans-unit id="Common.Cancel">
         <source xml:lang="en">Cancel</source>
