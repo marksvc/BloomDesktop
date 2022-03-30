@@ -1185,7 +1185,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="Common.Copyright">
         <source xml:lang="en">Copyright</source>
         <note>ID: Common.Copyright</note>
-        <target xml:lang="es-ES" state="needs-translation">Copyright</target>
+        <target xml:lang="es-ES" state="translated">Derechos de autor</target>
       </trans-unit>
       <trans-unit id="Common.Delete" approved="yes">
         <source xml:lang="en">Delete</source>
@@ -1241,7 +1241,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="Common.License" sil:dynamic="true">
         <source xml:lang="en">License</source>
         <note>ID: Common.License</note>
-        <target xml:lang="es-ES" state="needs-translation">License</target>
+        <target xml:lang="es-ES" state="translated">Licencia</target>
       </trans-unit>
       <trans-unit id="Common.Loading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Loading...</source>
@@ -1285,7 +1285,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="Common.Other" sil:dynamic="true">
         <source xml:lang="en">Other</source>
         <note>ID: Common.Other</note>
-        <target xml:lang="es-ES" state="needs-translation">Other</target>
+        <target xml:lang="es-ES" state="translated">Otro</target>
       </trans-unit>
       <trans-unit id="Common.Pause" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Pause</source>
