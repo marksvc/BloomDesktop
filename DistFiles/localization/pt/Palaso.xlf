@@ -474,113 +474,134 @@
       <trans-unit id="MetadataEditor.AllowCommercialUse">
         <source xml:lang="en">Allow commercial uses of your work?</source>
         <note>ID: MetadataEditor.AllowCommercialUse</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Permitir uso comercial de seu obra?</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.AllowDerivatives">
         <source xml:lang="en">Allow modifications of your work?</source>
         <note>ID: MetadataEditor.AllowDerivatives</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Permite modificações de seu obra?</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CopyrightHolder">
         <source xml:lang="en">Copyright Holder</source>
         <note>ID: MetadataEditor.CopyrightHolder</note>
+        <note>Obsolete as of Bloom 5.3 (moved to Bloom.xlf with a different ID)</note>
         <target xml:lang="pt-PT" state="translated">Detentor de direitos autorais</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CopyrightYear">
         <source xml:lang="en">Copyright Year</source>
         <note>ID: MetadataEditor.CopyrightYear</note>
+        <note>Obsolete as of Bloom 5.3 (moved to Bloom.xlf with a different ID)</note>
         <target xml:lang="pt-PT" state="translated">Ano do copyright (direitos autorais)</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CreativeCommons">
         <source xml:lang="en">Creative Commons</source>
         <note>ID: MetadataEditor.CreativeCommons</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Creative Commons</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CreativeCommons.Intergovernmental">
         <source xml:lang="en">Intergovernmental Version</source>
         <note>ID: MetadataEditor.CreativeCommons.Intergovernmental</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Versão Intergovernamental</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CreatorLabel">
         <source xml:lang="en">Creator</source>
         <note>ID: MetadataEditor.CreatorLabel</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Criador</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CustomLicense">
         <source xml:lang="en">Custom</source>
         <note>ID: MetadataEditor.CustomLicense</note>
+        <note>Obsolete as of Bloom 5.3 (moved to Bloom.xlf with a different ID)</note>
         <target xml:lang="pt-PT" state="translated">Personalizado</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.License">
         <source xml:lang="en">License</source>
         <note>ID: MetadataEditor.License</note>
+        <note>Obsolete as of Bloom 5.3 (moved to Bloom.xlf with a different ID)</note>
         <target xml:lang="pt-PT" state="translated">Licença</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.PublicDomain">
         <source xml:lang="en">The copyright holder waives all rights</source>
         <note>ID: MetadataEditor.PublicDomain</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">O detentor dos direitos autorais renuncia a todos os direitos</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.PublicDomain_ToolTip_">
         <source xml:lang="en">The copyright holder waives all rights</source>
         <note>ID: MetadataEditor.PublicDomain_ToolTip_</note>
         <note>This tooltip string is identical to the string displayed in the dialog in case there is not enough room in the dialog to display the full string.</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">O titular dos direitos de autor renuncia a todos os direitos</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.TitleNoCredit" approved="yes">
         <source xml:lang="en">Copyright and License</source>
         <note>ID: MetadataEditor.TitleNoCredit</note>
+        <note>Obsolete as of Bloom 5.3 (moved to Bloom.xlf with a different ID)</note>
         <target xml:lang="pt-PT" state="final">Direitos autorais e licença</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.TitleWithCredit" approved="yes">
         <source xml:lang="en">Credit, Copyright, and License</source>
         <note>ID: MetadataEditor.TitleWithCredit</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="final">Créditos, direitos autorais, e licença</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.UnknownLicense">
         <source xml:lang="en">Contact the copyright holder for any permissions</source>
         <note>ID: MetadataEditor.UnknownLicense</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Entrar em contato com o detentor dos direitos autorais para quaisquer permissões</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.UnknownLicense_ToolTip_">
         <source xml:lang="en">Contact the copyright holder for any permissions</source>
         <note>ID: MetadataEditor.UnknownLicense_ToolTip_</note>
         <note>This tooltip string is identical to the string displayed in the dialog in case there is not enough room in the dialog to display the full string.</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Contacte o titular dos direitos autorais para quaisquer permissões</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.YesShareAlike">
         <source xml:lang="en">Yes, as long as others share alike</source>
         <note>ID: MetadataEditor.YesShareAlike</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Sim, enquanto outros compartilham também</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.YesShareAlike_ToolTip_">
         <source xml:lang="en">Yes, as long as others share alike</source>
         <note>ID: MetadataEditor.YesShareAlike_ToolTip_</note>
         <note>This tooltip string is identical to the string displayed in the dialog in case there is not enough room in the dialog to display the full string.</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Sim, enquanto outros compartilham também</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.additionalRequestsLabel">
         <source xml:lang="en">Additional Requests</source>
         <note>ID: MetadataEditor.additionalRequestsLabel</note>
         <note>When you choose a Creative Commons License, this label shows over the text box at the bottom.</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Solicitações adicionais</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.betterLinkLabel1" approved="yes">
         <source xml:lang="en">more info</source>
         <note>ID: MetadataEditor.betterLinkLabel1</note>
         <note>The meaning of  "non-commercial" is vague but important. This hyperlink takes you somewhere that defines it.</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="final">mais informação</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.linkToPublicDomainCC0" approved="yes">
         <source xml:lang="en">about {0} Public Domain</source>
         <note>ID: MetadataEditor.linkToPublicDomainCC0</note>
         <note>{0} is replaced by an untranslatable abbreviation functioning as an adjective ("CC0")</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="final">sobre {0} Domínio Público</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.linkToWarningAboutRefiningCreativeCommons">
         <source xml:lang="en">Not Enforceable</source>
         <note>ID: MetadataEditor.linkToWarningAboutRefiningCreativeCommons</note>
         <note>While this screen allows it, legally you can't enforce any additions to a creative commons license. This link takes you to the clause that says that. This link is visible only if you choose Creative Commons but then type in  the "Additional Request" box.</note>
+        <note>Obsolete as of Bloom 5.3</note>
         <target xml:lang="pt-PT" state="translated">Não pode ser imposto</target>
       </trans-unit>
       <trans-unit id="ScriptsAndVariants.ScriptsAndVariantsDialog._cancelButton" approved="yes">
