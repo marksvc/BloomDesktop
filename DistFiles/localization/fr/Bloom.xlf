@@ -1181,10 +1181,10 @@
         <note>ID: Common.Copy</note>
         <target xml:lang="fr" state="final">Copier</target>
       </trans-unit>
-      <trans-unit id="Common.Copyright">
+      <trans-unit id="Common.Copyright" approved="yes">
         <source xml:lang="en">Copyright</source>
         <note>ID: Common.Copyright</note>
-        <target xml:lang="fr" state="needs-translation">Copyright</target>
+        <target xml:lang="fr" state="final">Droits d'auteur</target>
       </trans-unit>
       <trans-unit id="Common.Delete" approved="yes">
         <source xml:lang="en">Delete</source>
@@ -1237,10 +1237,10 @@
         <note>This is the same as Settings.Enterprise.LearnMore</note>
         <target xml:lang="fr" state="final">En savoir plus</target>
       </trans-unit>
-      <trans-unit id="Common.License" sil:dynamic="true">
+      <trans-unit id="Common.License" sil:dynamic="true" approved="yes">
         <source xml:lang="en">License</source>
         <note>ID: Common.License</note>
-        <target xml:lang="fr" state="needs-translation">License</target>
+        <target xml:lang="fr" state="final">Licence</target>
       </trans-unit>
       <trans-unit id="Common.Loading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Loading...</source>
@@ -1281,10 +1281,10 @@
         <note>ID: Common.Optional</note>
         <target xml:lang="fr" state="final">facultatif</target>
       </trans-unit>
-      <trans-unit id="Common.Other" sil:dynamic="true">
+      <trans-unit id="Common.Other" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Other</source>
         <note>ID: Common.Other</note>
-        <target xml:lang="fr" state="needs-translation">Other</target>
+        <target xml:lang="fr" state="final">Autre</target>
       </trans-unit>
       <trans-unit id="Common.Pause" sil:dynamic="true">
         <source xml:lang="en">Pause</source>
