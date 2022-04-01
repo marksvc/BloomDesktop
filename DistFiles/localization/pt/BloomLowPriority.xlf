@@ -6,7 +6,7 @@
         <source xml:lang="en">A future update of Bloom will contain the branding assets for this project, “{0}”.  Thank you for your patience.</source>
         <note>ID: BackCover.NewBrandingNotice</note>
         <note>The {0} is replaced at runtime with the name of the new branding project.</note>
-        <target xml:lang="pt-PT" state="translated">Uma futura atualização do Bloom terá os recursos de marca para este projeto, “{0}. Obrigado por sua paciência.</target>
+        <target xml:lang="pt-PT" state="translated">Uma futura atualização do Bloom terá os recursos de marca para este projeto, “{0}". Obrigado por sua paciência.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.ESpeakPreview.ConversionFileUsed">
         <source xml:lang="en">Conversion file used:</source>
