@@ -3593,11 +3593,11 @@
         <note>This shows in the popup when hovering over a font when Bloom can't determine if it is useable legally.</note>
         <target xml:lang="fr" state="final">Bloom ne peut pas déterminer le règlement concernant l'emploi de cette police. Veuillez lire la licence et assurez-vous qu'elle permet son intégration dans des livres électroniques ainsi que sur le Web. Avant de publier dans bloomlibrary.org, il est fort possible que vous devrez demander à l'équipe Bloom d'enquêter sur cette police afin de s'assurer que son hébergement n'occasionne aucun problème.</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.FontFormatUnsuitable">
+      <trans-unit id="FontInformationPane.FontFormatUnsuitable" approved="yes">
         <source xml:lang="en">This font is in a file format that Bloom cannot use for ebooks. Please use a different font.</source>
         <note>ID: FontInformationPane.FontFormatUnsuitable</note>
         <note>This shows in the popup when hovering over a font that Bloom can't legally host on its website.</note>
-        <target xml:lang="fr" state="translated">Cette police est dans un format de fichier que Bloom ne peut pas utiliser pour les ebooks. Veuillez utiliser une police différente.</target>
+        <target xml:lang="fr" state="final">Cette police est dans un format de fichier que Bloom ne peut pas utiliser pour les e-books. Veuillez utiliser une police différente.</target>
       </trans-unit>
       <trans-unit id="FontInformationPane.FontUnsuitable" approved="yes">
         <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web. Please use a different font.</source>
@@ -5279,32 +5279,32 @@
         <note>ID: PublishTab.Upload.FinalUploadFailureNotice</note>
         <target xml:lang="fr" state="final">Désolé, "{0}" n'a pu être téléchargé.Parfois, cela est dû à des problèmes temporaires avec les serveurs que nous utilisons. Il vaut la peine d'essayer à nouveau dans une heure ou deux. Si vous rencontrez régulièrement ce problème, veuillez nous le signaler.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem">
+      <trans-unit id="PublishTab.FontProblem" approved="yes">
         <source xml:lang="en">This book has a font, “{0}”, which has the following problem:</source>
         <note>ID: PublishTab.FontProblem</note>
         <note>{0} is replaced by the name of the font.  Do not try to translate it.</note>
-        <target xml:lang="fr" state="translated">Ce livre contient une police, «{0}», qui a le problème suivant :</target>
+        <target xml:lang="fr" state="final">Ce livre contient une police, «{0}», qui a le problème suivant :</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem.Exception">
+      <trans-unit id="PublishTab.FontProblem.Exception" approved="yes">
         <source xml:lang="en">The font's file cannot be processed by Bloom and may be corrupted or not a font file.</source>
         <note>ID: PublishTab.FontProblem.Exception</note>
-        <target xml:lang="fr" state="translated">Bloom ne peut pas traiter le fichier de la police qui pourrait être corrompu ou pas un fichier de police.</target>
+        <target xml:lang="fr" state="final">Bloom ne peut pas traiter le fichier de la police qui pourrait être corrompu ou pas un fichier de police.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem.Format">
+      <trans-unit id="PublishTab.FontProblem.Format" approved="yes">
         <source xml:lang="en">Bloom cannot publish ebooks with this font's format ({0}).</source>
         <note>ID: PublishTab.FontProblem.Format</note>
         <note>{0} is replaced by the filename extension of the font (something like ".ttc").  Do not try to translate it.</note>
-        <target xml:lang="fr" state="translated">Bloom ne peut pas publier des ebooks au format de cette police ({0}).</target>
+        <target xml:lang="fr" state="final">Bloom ne peut pas publier des e-books au format de cette police ({0}).</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem.License">
+      <trans-unit id="PublishTab.FontProblem.License" approved="yes">
         <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web.</source>
         <note>ID: PublishTab.FontProblem.License</note>
-        <target xml:lang="fr" state="translated">Les métadonnées dans cette police nous informent qu'on n'a pas le droit de l'intégrer gratuitement dans les e-books et le web.</target>
+        <target xml:lang="fr" state="final">Les métadonnées dans cette police nous informent qu'on n'a pas le droit de l'intégrer gratuitement dans les e-books et le web.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem.Result">
+      <trans-unit id="PublishTab.FontProblem.Result" approved="yes">
         <source xml:lang="en">BloomLibrary.org will display the PDF and allow downloads for translation, but cannot offer the “READ” button or downloads for BloomPUB or ePUB.</source>
         <note>ID: PublishTab.FontProblem.Result</note>
-        <target xml:lang="fr" state="needs-translation">BloomLibrary.org will display the PDF and allow downloads for translation, but cannot offer the “READ” button or downloads for BloomPUB or ePUB.</target>
+        <target xml:lang="fr" state="final">BloomLibrary.org va afficher le PDF et autoriser les téléchargements pour la traduction, mais ne peut pas offrir le bouton « READ » ou les téléchargements vers BloomPUB ou ePUB.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Gaurantee" approved="yes">
         <source xml:lang="en">By uploading, you confirm your agreement with the Bloom Library Terms of Use and grant the rights it describes.</source>
