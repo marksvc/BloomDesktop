@@ -436,11 +436,19 @@
         <note>ID: CollectionSettingsDialog.AndikaNewBasicUpdate2</note>
         <target xml:lang="hi" state="final">इससे अधिकांश भाषाओं के लिए प्रिंटेड आउटपुट में सुधार होगा। यदि आपकी भाषा उन भाषाओं में से एक है जिसे "इंडिका" की जरुरत है, तो आप उसे सेटिंग्स:पुस्तक में जाकर फिर से वही कर सकते हैं।</target>
       </trans-unit>
+      <!-- <trans-unit id="CollectionSettingsDialog.BloomLibraryBookshelf"> -->
+      <!-- <source xml:lang="en">Bloom Library Bookshelf</source> -->
+      <!-- <note>ID: CollectionSettingsDialog.BloomLibraryBookshelf</note> -->
+      <!-- </trans-unit> -->
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.BookMakingTabLabel" approved="yes">
         <source xml:lang="en">Book Making</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.BookMakingTabLabel</note>
         <target xml:lang="hi" state="final">पुस्तक बनाना</target>
       </trans-unit>
+      <!-- <trans-unit id="CollectionSettingsDialog.BookMakingTab.BookshelfDescription" sil:dynamic="true"> -->
+      <!-- <source xml:lang="en">Projects that have Bloom Enterprise subscriptions can arrange for one or more bookshelves on the Bloom Library. All books uploaded from this collection will go into the selected bookshelf.</source> -->
+      <!-- <note>ID: CollectionSettingsDialog.BookMakingTab.BookshelfDescription</note> -->
+      <!-- </trans-unit> -->
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Branding.None" sil:dynamic="true" approved="yes">
         <source xml:lang="en">None</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Branding.None</note>
@@ -493,6 +501,10 @@
         <note>Name of a Front/Back Matter Pack that is used for talking/animating experiences</note>
         <target xml:lang="hi" state="final">वीडियो</target>
       </trans-unit>
+      <!-- <trans-unit id="CollectionSettingsDialog.BookMakingTab.NoBookshelvesFromServer" sil:dynamic="true"> -->
+      <!-- <source xml:lang="en">Bloom could not reach server to get the list of bookshelves.</source> -->
+      <!-- <note>ID: CollectionSettingsDialog.BookMakingTab.NoBookshelvesFromServer</note> -->
+      <!-- </trans-unit> -->
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Arabic-Indic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Arabic-Indic</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Arabic-Indic</note>
