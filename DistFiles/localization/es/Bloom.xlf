@@ -3611,7 +3611,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">This font is in a file format that Bloom cannot use for ebooks. Please use a different font.</source>
         <note>ID: FontInformationPane.FontFormatUnsuitable</note>
         <note>This shows in the popup when hovering over a font that Bloom can't legally host on its website.</note>
-        <target xml:lang="es-ES" state="needs-translation">This font is in a file format that Bloom cannot use for ebooks. Please use a different font.</target>
+        <target xml:lang="es-ES" state="translated">Esta fuente está en un formato de archivo que Bloom no puede utilizar para los libros electrónicos. Por favor, utilice una fuente diferente.</target>
       </trans-unit>
       <trans-unit id="FontInformationPane.FontUnsuitable">
         <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web. Please use a different font.</source>
@@ -5295,18 +5295,18 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">This book has a font, “{0}”, which has the following problem:</source>
         <note>ID: PublishTab.FontProblem</note>
         <note>{0} is replaced by the name of the font.  Do not try to translate it.</note>
-        <target xml:lang="es-ES" state="needs-translation">This book has a font, “{0}”, which has the following problem:</target>
+        <target xml:lang="es-ES" state="translated">Este libro tiene una fuente, "{0}", que tiene el siguiente problema:</target>
       </trans-unit>
       <trans-unit id="PublishTab.FontProblem.Exception">
         <source xml:lang="en">The font's file cannot be processed by Bloom and may be corrupted or not a font file.</source>
         <note>ID: PublishTab.FontProblem.Exception</note>
-        <target xml:lang="es-ES" state="needs-translation">The font's file cannot be processed by Bloom and may be corrupted or not a font file.</target>
+        <target xml:lang="es-ES" state="translated">El archivo de la fuente no puede ser procesado por Bloom y puede estar corrupto o no ser un archivo de fuente.</target>
       </trans-unit>
       <trans-unit id="PublishTab.FontProblem.Format">
         <source xml:lang="en">Bloom cannot publish ebooks with this font's format ({0}).</source>
         <note>ID: PublishTab.FontProblem.Format</note>
         <note>{0} is replaced by the filename extension of the font (something like ".ttc").  Do not try to translate it.</note>
-        <target xml:lang="es-ES" state="needs-translation">Bloom cannot publish ebooks with this font's format ({0}).</target>
+        <target xml:lang="es-ES" state="translated">Bloom no puede publicar libros electrónicos con el formato de esta fuente ({0}).</target>
       </trans-unit>
       <trans-unit id="PublishTab.FontProblem.License">
         <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web.</source>
