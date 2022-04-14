@@ -4134,6 +4134,11 @@
         <note>ID: OpenCreateCloneControl.InDropboxMessage</note>
         <target xml:lang="prs" state="final">بلوم معلوم کرد که این مجموعه در دراپ باکس (Dropbox) شما است. این مشکل پیدا میکند زیرا بعضی اوقات دراپ باکس (Dropbox) بلوم را در فایل های خود قفل میسازد. اگر شما مشکلات دارید، ما پیشنهاد میکنیم که مجموعه خود را به جای دیگر انتقال دهید و یا دراپ باکس (Dropbox) را در وقت استفاده بلوم غیر فعال سازید.</target>
       </trans-unit>
+      <trans-unit id="OpenCreateCloneControl.InZipFileMessage">
+        <source xml:lang="en">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</source>
+        <note>ID: OpenCreateCloneControl.InZipFileMessage</note>
+        <target xml:lang="prs" state="needs-translation">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</target>
+      </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InSourceCollectionMessage" approved="yes">
         <source xml:lang="en">This collection is part of your 'Sources for new books' which you can see in the bottom left of the Collections tab. It cannot be opened for editing.</source>
         <note>ID: OpenCreateCloneControl.InSourceCollectionMessage</note>
