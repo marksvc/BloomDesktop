@@ -4139,7 +4139,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
       <trans-unit id="OpenCreateCloneControl.InZipFileMessage">
         <source xml:lang="en">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</source>
         <note>ID: OpenCreateCloneControl.InZipFileMessage</note>
-        <target xml:lang="es-ES" state="needs-translation">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</target>
+        <target xml:lang="es-ES" state="translated">Parece que está intentando abrir una colección Bloom desde dentro de un archivo ZIP. Primero debe descomprimir el archivo ZIP y luego abrir la colección.</target>
       </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InSourceCollectionMessage" approved="yes">
         <source xml:lang="en">This collection is part of your 'Sources for new books' which you can see in the bottom left of the Collections tab. It cannot be opened for editing.</source>
