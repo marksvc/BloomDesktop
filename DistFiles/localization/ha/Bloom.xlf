@@ -4134,11 +4134,6 @@
         <note>ID: OpenCreateCloneControl.InDropboxMessage</note>
         <target xml:lang="ha" state="final">Bloom ya gano wannan tarin bayanai na cikin Akwatin Ajiyarka na DropBox a yanar gizo. Wannan na iya haddasa matsaloli saboda akwatin ajiyar Dropbox na yanar gizo a wasu lokuta da dama yakan rufe Bloom daga kundayen bayanansa. Idan kana da matsaloli, muna baka shawarar ka tura tarin bayananka zuwa wani wuri ko kuma ka rufe akwatin ajiyar Dropbox a lokacin da kake amfani da Bloom.</target>
       </trans-unit>
-      <trans-unit id="OpenCreateCloneControl.InZipFileMessage">
-        <source xml:lang="en">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</source>
-        <note>ID: OpenCreateCloneControl.InZipFileMessage</note>
-        <target xml:lang="ha" state="needs-translation">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</target>
-      </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InSourceCollectionMessage" approved="yes">
         <source xml:lang="en">This collection is part of your 'Sources for new books' which you can see in the bottom left of the Collections tab. It cannot be opened for editing.</source>
         <note>ID: OpenCreateCloneControl.InSourceCollectionMessage</note>
