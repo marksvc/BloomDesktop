@@ -4135,11 +4135,6 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>ID: OpenCreateCloneControl.InDropboxMessage</note>
         <target xml:lang="sw" state="final">Bloom iligundua kuwa mkusanyiko huu uko kwenye folda yako ya dropbox. Hii inaweza kusababisha matatizo kwa kuwa wakati mwingine dropboksi wakati mwingine hufungia Bloom kutoka kwa faili zake. Iwapo una matatizo, tunapendekeza kuwa usongeshe mkusanyiko wako mahali pengine au uizime dropboksi yako utakapokuwa ukitumia Bloom.</target>
       </trans-unit>
-      <trans-unit id="OpenCreateCloneControl.InZipFileMessage">
-        <source xml:lang="en">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</source>
-        <note>ID: OpenCreateCloneControl.InZipFileMessage</note>
-        <target xml:lang="sw" state="needs-translation">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</target>
-      </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InSourceCollectionMessage" approved="yes">
         <source xml:lang="en">This collection is part of your 'Sources for new books' which you can see in the bottom left of the Collections tab. It cannot be opened for editing.</source>
         <note>ID: OpenCreateCloneControl.InSourceCollectionMessage</note>
