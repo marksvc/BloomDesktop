@@ -4134,11 +4134,6 @@
         <note>ID: OpenCreateCloneControl.InDropboxMessage</note>
         <target xml:lang="mam" state="final">Bloom ma tna' qa ate k'loj te ila' wiq lu' tokx tuj tk'ub'il te Dropbox. lu' ja'ku tzaj tq'o'n nimku mya' b'a'n tu'n tlaj Dropbox nmaqan te Bloom ti'jx tib' te tnak'ub'il. Qa at jun mya' b'a'n kxel qoqxe'na tu'n tyukx tuj juntl tenb'il aj k'loj te ila' wiq mo qa tu'n tel ti'ne Dropbox qa ma tz'ajb'lan Bloom tu'na.</target>
       </trans-unit>
-      <trans-unit id="OpenCreateCloneControl.InZipFileMessage">
-        <source xml:lang="en">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</source>
-        <note>ID: OpenCreateCloneControl.InZipFileMessage</note>
-        <target xml:lang="mam" state="needs-translation">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</target>
-      </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InSourceCollectionMessage" approved="yes">
         <source xml:lang="en">This collection is part of your 'Sources for new books' which you can see in the bottom left of the Collections tab. It cannot be opened for editing.</source>
         <note>ID: OpenCreateCloneControl.InSourceCollectionMessage</note>
