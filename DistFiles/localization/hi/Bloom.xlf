@@ -4135,11 +4135,6 @@
         <note>ID: OpenCreateCloneControl.InDropboxMessage</note>
         <target xml:lang="hi" state="final">ब्लूम को पता चला है कि यह संग्रह आपके ड्रॉपबॉक्स फोल्डर में स्थित है। यह समस्या का कारण हो सकता है क्योंकि कई बार ड्रॉपबॉक्स फोल्डर अपनी खुद की फाइलें ब्लूम को इस्तेमाल नहीं करने देता। यदि आपको समस्या हो रही है, तो हम सुझाव देते हैं कि आप अपने संग्रह को कहीं और ले जाएँ या ब्लूम का उपयोग करते समय ड्रॉपबॉक्स को अक्षम करें।</target>
       </trans-unit>
-      <trans-unit id="OpenCreateCloneControl.InZipFileMessage">
-        <source xml:lang="en">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</source>
-        <note>ID: OpenCreateCloneControl.InZipFileMessage</note>
-        <target xml:lang="hi" state="needs-translation">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</target>
-      </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InSourceCollectionMessage" approved="yes">
         <source xml:lang="en">This collection is part of your 'Sources for new books' which you can see in the bottom left of the Collections tab. It cannot be opened for editing.</source>
         <note>ID: OpenCreateCloneControl.InSourceCollectionMessage</note>
