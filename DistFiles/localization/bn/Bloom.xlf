@@ -4134,11 +4134,6 @@
         <note>ID: OpenCreateCloneControl.InDropboxMessage</note>
         <target xml:lang="bn" state="final">ব্লুম শনাক্ত করেছে যে এই সংগ্রহশালাটি আপনার ড্রপবক্সের ফোল্ডারে রয়েছে।এটি একটি সমস্যার কারণ হতে পারে যেহেতু ড্রপবক্স কখনও কখনও ব্লুমকে তার নিজের ফাইল থেকে লক করে।যদি কোন সমস্যার সম্মুখীন হন, আমরা পরামর্শ দিচ্ছি যে আপনার সংগ্রহ অন্যত্র সরিয়ে রাখুন অথবা ব্লুম ব্যবহারের সময় ড্রপবক্স নিষ্ক্রিয় রাখুন।</target>
       </trans-unit>
-      <trans-unit id="OpenCreateCloneControl.InZipFileMessage">
-        <source xml:lang="en">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</source>
-        <note>ID: OpenCreateCloneControl.InZipFileMessage</note>
-        <target xml:lang="bn" state="needs-translation">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</target>
-      </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InSourceCollectionMessage" approved="yes">
         <source xml:lang="en">This collection is part of your 'Sources for new books' which you can see in the bottom left of the Collections tab. It cannot be opened for editing.</source>
         <note>ID: OpenCreateCloneControl.InSourceCollectionMessage</note>
