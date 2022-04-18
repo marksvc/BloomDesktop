@@ -4134,11 +4134,6 @@
         <note>ID: OpenCreateCloneControl.InDropboxMessage</note>
         <target xml:lang="ne-NP" state="final">Bloom ले यो सङ्ग्रह तपाईंको Dropbox फोल्डरमा छ भनी पत्ता लगाएको छ।कहिलेकाहीँ Dropbox ले Bloom लाई यसका फाइलहरूमाथि पहुँच नदिने भएकाले यसले समस्या निम्त्याउन सक्छ।समस्या देखिएको खण्डमा, हामी तपाईंलाई आफ्नो सङ्ग्रह अन्य कतै सार्न वा Bloom प्रयोग गर्दा Dropbox अक्षम बनाउन सिफारिस गर्दछौं।</target>
       </trans-unit>
-      <trans-unit id="OpenCreateCloneControl.InZipFileMessage">
-        <source xml:lang="en">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</source>
-        <note>ID: OpenCreateCloneControl.InZipFileMessage</note>
-        <target xml:lang="ne-NP" state="needs-translation">It looks like you are trying to open a Bloom Collection from inside of a ZIP file. You need to first unzip the ZIP file, and then open the collection.</target>
-      </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InSourceCollectionMessage" approved="yes">
         <source xml:lang="en">This collection is part of your 'Sources for new books' which you can see in the bottom left of the Collections tab. It cannot be opened for editing.</source>
         <note>ID: OpenCreateCloneControl.InSourceCollectionMessage</note>
