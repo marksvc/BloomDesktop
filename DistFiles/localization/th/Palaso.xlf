@@ -11,18 +11,18 @@
       <trans-unit id="AboutDialog.NoUpdates">
         <source xml:lang="en">No Updates</source>
         <note>ID: AboutDialog.NoUpdates</note>
-        <target xml:lang="th" state="needs-translation">No Updates</target>
+        <target xml:lang="th" state="translated">ไม่มีการอัปเดต</target>
       </trans-unit>
       <trans-unit id="AboutDialog.WindowTitle">
         <source xml:lang="en">About {0}</source>
         <note>ID: AboutDialog.WindowTitle</note>
         <note>{0} is the application name</note>
-        <target xml:lang="th" state="needs-translation">About {0}</target>
+        <target xml:lang="th" state="translated">เกี่ยวกับ{0}</target>
       </trans-unit>
       <trans-unit id="AboutDialog._checkForUpdates">
         <source xml:lang="en">Check For Updates</source>
         <note>ID: AboutDialog._checkForUpdates</note>
-        <target xml:lang="th" state="needs-translation">Check For Updates</target>
+        <target xml:lang="th" state="translated">ตรวจเช็คการอัพเดต</target>
       </trans-unit>
       <trans-unit id="AboutDialog._releaseNotesLabel">
         <source xml:lang="en">Release Notes</source>
@@ -80,7 +80,7 @@
       <trans-unit id="Common.No">
         <source xml:lang="en">No</source>
         <note>ID: Common.No</note>
-        <target xml:lang="th" state="needs-translation">No</target>
+        <target xml:lang="th" state="translated">ไม่ใช่</target>
       </trans-unit>
       <trans-unit id="Common.NoButton">
         <source xml:lang="en">&amp;No</source>
