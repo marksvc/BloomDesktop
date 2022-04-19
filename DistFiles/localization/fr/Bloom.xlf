@@ -3433,10 +3433,10 @@
         <note>"Report" as in "Report this problem to Bloom Support"</note>
         <target xml:lang="fr" state="final">Signaler</target>
       </trans-unit>
-      <trans-unit id="Errors.PathTooLong">
+      <trans-unit id="Errors.PathTooLong" approved="yes">
         <source xml:lang="en">Please move your collection closer to the root of your hard drive and try again. A file Bloom was working with had a path that was too long. This is usually caused by your collection being too deeply nested in many folders on your hard drive.</source>
         <note>ID: Errors.PathTooLong</note>
-        <target xml:lang="fr" state="needs-translation">Please move your collection closer to the root of your hard drive and try again. A file Bloom was working with had a path that was too long. This is usually caused by your collection being too deeply nested in many folders on your hard drive.</target>
+        <target xml:lang="fr" state="final">Veuillez déplacer votre collection plus près de la racine de votre disque dur et réessayez. Un fichier avec lequel Bloom travaillait avait un chemin trop long. Cela est généralement dû au fait que votre collection est trop imbriquée dans de nombreux dossiers sur votre disque dur.</target>
       </trans-unit>
       <trans-unit id="Errors.BookProblem" approved="yes">
         <source xml:lang="en">Bloom had a problem showing this book. This doesn't mean your work is lost, but it does mean that something is out of date, is missing, or has gone wrong.</source>
