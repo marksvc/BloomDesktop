@@ -65,12 +65,12 @@
       <trans-unit id="Common.AbortButton">
         <source xml:lang="en">&amp;Abort</source>
         <note>ID: Common.AbortButton</note>
-        <target xml:lang="th" state="needs-translation">&amp;Abort</target>
+        <target xml:lang="th" state="translated">&amp;ยกเลิก</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton">
         <source xml:lang="en">&amp;Cancel</source>
         <note>ID: Common.CancelButton</note>
-        <target xml:lang="th" state="needs-translation">&amp;Cancel</target>
+        <target xml:lang="th" state="translated">&amp;ยกเลิก</target>
       </trans-unit>
       <trans-unit id="Common.IgnoreButton">
         <source xml:lang="en">&amp;Ignore</source>
@@ -100,12 +100,12 @@
       <trans-unit id="Common.Yes">
         <source xml:lang="en">Yes</source>
         <note>ID: Common.Yes</note>
-        <target xml:lang="th" state="needs-translation">Yes</target>
+        <target xml:lang="th" state="translated">ใช่</target>
       </trans-unit>
       <trans-unit id="Common.YesButton">
         <source xml:lang="en">&amp;Yes</source>
         <note>ID: Common.YesButton</note>
-        <target xml:lang="th" state="needs-translation">&amp;Yes</target>
+        <target xml:lang="th" state="translated">&amp;ใช่</target>
       </trans-unit>
       <trans-unit id="CustomIdentifierView.betterLabel1">
         <source xml:lang="en">RFC5646 code:</source>
