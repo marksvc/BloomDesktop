@@ -2435,18 +2435,6 @@
         <note>ID: EditTab.TextBoxProperties.LanguageTab</note>
         <target xml:lang="bn" state="final">ভাষা</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.LocalLanguage" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Local Language</source>
-        <note>ID: EditTab.TextBoxProperties.LocalLanguage</note>
-        <note>Obsolete for Bloom 5.1 and later</note>
-        <target xml:lang="bn" state="final">স্থানীয় ভাষা</target>
-      </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.NationalLanguage" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">National Language</source>
-        <note>ID: EditTab.TextBoxProperties.NationalLanguage</note>
-        <note>Obsolete for Bloom 5.1 and later</note>
-        <target xml:lang="bn" state="final">জাতীয় ভাষা</target>
-      </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.Normal" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Normal</source>
         <note>ID: EditTab.TextBoxProperties.Normal</note>
@@ -2461,12 +2449,6 @@
         <source xml:lang="en">Use one of these for simple text boxes that are always in only one language.</source>
         <note>ID: EditTab.TextBoxProperties.OtherLanguagesLabel</note>
         <target xml:lang="bn" state="final">সাধারন লেখার বক্সের জন্য এগুলির মধ্যে কোন একটি ব্যবহার করুন যা সবসময় শুধুমাত্র একটি ভাষাতেই হয়।</target>
-      </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.RegionalLanguage" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Regional Language</source>
-        <note>ID: EditTab.TextBoxProperties.RegionalLanguage</note>
-        <note>Obsolete for Bloom 5.1 and later</note>
-        <target xml:lang="bn" state="final">আঞ্চলিক ভাষা</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.SelectedLanguage" sil:dynamic="true">
         <source xml:lang="en">Selected Language 1</source>
@@ -2856,18 +2838,6 @@
         <note>ID: EditTab.Toolbox.DecodableReaderTool.SortByWordLength</note>
         <target xml:lang="bn" state="final">শব্দের দৈর্ঘানুযায়ী সাজান</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.Stage" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Stage</source>
-        <note>ID: EditTab.Toolbox.DecodableReaderTool.Stage</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">স্তর</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.StageOf" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">of</source>
-        <note>ID: EditTab.Toolbox.DecodableReaderTool.StageOf</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">এর</target>
-      </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.StageNofM" sil:dynamic="true">
         <source xml:lang="en">Stage {0} of {1}</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.StageNofM</note>
@@ -3005,20 +2975,6 @@
         <source xml:lang="en">Keep in mind</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.KeepInMind</note>
         <target xml:lang="bn" state="final">মনে রাখবেন</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Level" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Level</source>
-        <note>ID: EditTab.Toolbox.LeveledReaderTool.Level</note>
-        <note>Used to create string "Level # of #". The space after this word is added programmatically.</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">পর্যায়</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.LevelOf" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">of</source>
-        <note>ID: EditTab.Toolbox.LeveledReaderTool.LevelOf</note>
-        <note>Used to create string "Level # of #". The spaces on each side of this word are added programmatically.</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">এর </target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.LevelNofM" sil:dynamic="true">
         <source xml:lang="en">Level {0} of {1}</source>
@@ -3672,12 +3628,6 @@
         <note>ID: HelpMenu.Help Menu_ToolTip_</note>
         <target xml:lang="bn" state="final">সাহায্য নিন</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.KeyBloomConceptsToolStripMenuItem" approved="yes">
-        <source xml:lang="en">Key Bloom Concepts</source>
-        <note>ID: HelpMenu.KeyBloomConceptsToolStripMenuItem</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">ব্লুমের মূল ধারণাসমূহ</target>
-      </trans-unit>
       <trans-unit id="HelpMenu.MakeASuggestionMenuItem" approved="yes">
         <source xml:lang="en">Request a Feature</source>
         <note>ID: HelpMenu.MakeASuggestionMenuItem</note>
@@ -3699,12 +3649,6 @@
         <source xml:lang="en">Report a Problem...</source>
         <note>ID: HelpMenu.ReportAProblemToolStripMenuItem</note>
         <target xml:lang="bn" state="final">সমস্যা রিপোর্ট করুন...</target>
-      </trans-unit>
-      <trans-unit id="HelpMenu.ShowEventLogMenuItem" approved="yes">
-        <source xml:lang="en">Show Event Log</source>
-        <note>ID: HelpMenu.ShowEventLogMenuItem</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">ইভেন্ট লগ দেখান</target>
       </trans-unit>
       <trans-unit id="HelpMenu.UsingReaderTemplatesMenuItem" approved="yes">
         <source xml:lang="en">Using Reader Templates </source>
@@ -4103,12 +4047,6 @@
         <note>ID: NewCollectionWizard.NewCollectionWindowTitle</note>
         <target xml:lang="bn" state="final">নতুন ব্লুম সংগ্রহ তৈরি করুন</target>
       </trans-unit>
-      <trans-unit id="NewCollectionWizard.ProjectName" approved="yes">
-        <source xml:lang="en">Project Name</source>
-        <note>ID: NewCollectionWizard.ProjectName</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">প্রকল্পের নাম</target>
-      </trans-unit>
       <trans-unit id="NewCollectionWizard.UnableToCreateANewCollectionUsingThatName" approved="yes">
         <source xml:lang="en">Unable to create a new collection using that name.</source>
         <note>ID: NewCollectionWizard.UnableToCreateANewCollectionUsingThatName</note>
@@ -4504,12 +4442,6 @@
         <note>{0} is the size of the book that Bloom is trying to copy over to the Android device.</note>
         <target xml:lang="bn" state="final">ডিভাইসটি জানিয়েছে যে এতে বইটির জন্য পর্যাপ্ত স্থান নেই। বইটি {0} mb।</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">The following devices are connected but do not seem to have Bloom Reader running:</source>
-        <note>ID: PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">নিম্নবর্ণিত ডিভাইসগুলি যুক্ত আছে কিন্তু ব্লুম পুস্তক চলমান আছে বলে মনে হয় না।</target>
-      </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.FailureToSend" sil:dynamic="true" approved="yes">
         <source xml:lang="en">An error occurred and the book was not sent to your Android device.</source>
         <note>ID: PublishTab.Android.Usb.Progress.FailureToSend</note>
@@ -4798,13 +4730,6 @@
         <source xml:lang="en">No recorded audio image descriptions</source>
         <note>ID: PublishTab.Epub.NoAudioDescriptions</note>
         <target xml:lang="bn" state="final">ছবির রেকর্ড করা কোন অডিও বিবরণ নেই</target>
-      </trans-unit>
-      <trans-unit id="PublishTab.Epub.NoComicSupport">
-        <source xml:lang="en">Sorry, Bloom cannot produce ePUBs if there are any comic bubbles. The first comic bubble is on page {0}.</source>
-        <note>ID: PublishTab.Epub.NoComicSupport</note>
-        <note>The {0} will be replaced with the page number (or name of page). For example, it might be replaced by "1" or "Front Cover"</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="needs-translation">Sorry, Bloom cannot produce ePUBs if there are any comic bubbles. The first comic bubble is on page {0}.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.OmittedPages" approved="yes">
         <source xml:lang="en">The following pages were removed because they are not supported in ePUBs:</source>
@@ -6170,13 +6095,6 @@ Do you want to go ahead?</note>
         <note>ID: RegisterDialog.WindowTitle</note>
         <note>Place a {0} where the name of the program goes.</note>
         <target xml:lang="bn" state="final">নিবন্ধন {0}</target>
-      </trans-unit>
-      <trans-unit id="ReportProblemDialog.Close" approved="yes">
-        <source xml:lang="en">Close</source>
-        <note>ID: ReportProblemDialog.Close</note>
-        <note>Shown in the button that closes the dialog after a successful report submission.</note>
-        <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="bn" state="final">বন্ধ করুন</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.CouldNotSendToServer" approved="yes">
         <source xml:lang="en">Bloom was not able to submit your report directly to our server. Please retry or email {0} to {1}.</source>
