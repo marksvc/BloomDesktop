@@ -4201,7 +4201,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">Note that when you upload your book to &lt;a href="https://bloomlibrary.org/"&gt;BloomLibrary.org&lt;/a&gt;, we will create a BloomPUB file for you that people can download.</source>
         <note>ID: PublishTab.Android.BloomPUB.Hint2</note>
         <note>The link should be left untranslated as well as the file type 'BloomPUB'.</note>
-        <target xml:lang="es-ES" state="needs-translation">Note that when you upload your book to &lt;a href="https://bloomlibrary.org/"&gt;BloomLibrary.org&lt;/a&gt;, we will create a BloomPUB file for you that people can download.</target>
+        <target xml:lang="es-ES" state="translated">Tenga en cuenta que cuando suba su libro a &lt;a href="https://bloomlibrary.org/"&gt;Bloom Library.org&lt;/a&gt; crearemos un archivo BloomPUB que otros podrán descargar.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.USB.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en"> USB is Difficult</source>
@@ -4261,7 +4261,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
       <trans-unit id="PublishTab.Android.ChooseBloomPUBFile" sil:dynamic="true">
         <source xml:lang="en">Save BloomPUB File</source>
         <note>ID: PublishTab.Android.ChooseBloomPUBFile</note>
-        <target xml:lang="es-ES" state="needs-translation">Save BloomPUB File</target>
+        <target xml:lang="es-ES" state="translated">Guardar el archivo BloomPUB</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseLandscapeForMotion" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose landscape to activate Motion Book mode</source>
@@ -4599,7 +4599,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">BloomPUB</source>
         <note>ID: PublishTab.bloomPUBButton</note>
         <note>This is the label under the BloomPUB icon on the left side of the Publish screen.</note>
-        <target xml:lang="es-ES" state="needs-translation">BloomPUB</target>
+        <target xml:lang="es-ES" state="translated">BloomPUB</target>
       </trans-unit>
       <trans-unit id="PublishTab.BodyOnlyRadio-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Make a booklet from the inside pages of the book.\nPages will be laid out and reordered so that when you fold it, you'll have a booklet.\n</source>
