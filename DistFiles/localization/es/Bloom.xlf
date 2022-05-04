@@ -4189,13 +4189,13 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
       <trans-unit id="PublishTab.Android.BloomPUB.Hint.Heading" sil:dynamic="true">
         <source xml:lang="en">Sharing BloomPUB Files</source>
         <note>ID: PublishTab.Android.BloomPUB.Hint.Heading</note>
-        <target xml:lang="es-ES" state="needs-translation">Sharing BloomPUB Files</target>
+        <target xml:lang="es-ES" state="translated">Compartir archivos BloomPUB</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.BloomPUB.Hint" sil:dynamic="true">
         <source xml:lang="en">You can use SD cards and sharing apps like email, Google Drive, and WhatsApp to get your .bloompub file onto a device that has &lt;a href="https://bloomlibrary.org/page/create/bloom-reader"&gt;Bloom Reader&lt;/a&gt; (Android) or &lt;a href="https://github.com/BloomBooks/bloompub-viewer/releases"&gt;BloomPUB Viewer&lt;/a&gt; (Windows). You can also create a stand-alone app using &lt;a href="https://software.sil.org/readingappbuilder/"&gt;Reading App Builder&lt;/a&gt;.</source>
         <note>ID: PublishTab.Android.BloomPUB.Hint</note>
         <note>The 3 links should be left untranslated as well as the file type '.bloompub'. Beware of machine translations that eliminate the 'b'.</note>
-        <target xml:lang="es-ES" state="needs-translation">You can use SD cards and sharing apps like email, Google Drive, and WhatsApp to get your .bloompub file onto a device that has &lt;a href="https://bloomlibrary.org/page/create/bloom-reader"&gt;Bloom Reader&lt;/a&gt; (Android) or &lt;a href="https://github.com/BloomBooks/bloompub-viewer/releases"&gt;BloomPUB Viewer&lt;/a&gt; (Windows). You can also create a stand-alone app using &lt;a href="https://software.sil.org/readingappbuilder/"&gt;Reading App Builder&lt;/a&gt;.</target>
+        <target xml:lang="es-ES" state="translated">Puede utilizar tarjetas SD y aplicaciones para compartir como el correo electrónico, Google Drive y WhatsApp para introducir su archivo .bloompub a un dispositivo que tenga &lt;a href="https://bloomlibrary.org/page/create/bloom-reader"&gt;Bloom Reader&lt;/a&gt;(Android) o &lt;a href="https://github.com/BloomBooks/bloompub-viewer/releases"&gt;BloomPub Viewer&lt;/a&gt; (Windows). También puede crear una aplicación independiente utilizando &lt;a href="https://software.sil.org/readingappbuilder/"&gt;Reading App Builder&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.BloomPUB.Hint2" sil:dynamic="true">
         <source xml:lang="en">Note that when you upload your book to &lt;a href="https://bloomlibrary.org/"&gt;BloomLibrary.org&lt;/a&gt;, we will create a BloomPUB file for you that people can download.</source>
