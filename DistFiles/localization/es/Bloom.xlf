@@ -828,10 +828,10 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: CollectionTab.BookMenu.ExportToXMLForInDesign</note>
         <target xml:lang="es-ES" state="final">Exportar a XML para InDesign...</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.ImportContentFromSpreadsheet">
+      <trans-unit id="CollectionTab.BookMenu.ImportContentFromSpreadsheet" approved="yes">
         <source xml:lang="en">Import Content from Spreadsheet...</source>
         <note>ID: CollectionTab.BookMenu.ImportContentFromSpreadsheet</note>
-        <target xml:lang="es-ES" state="translated">Importar contenido de una hoja de cálculo...</target>
+        <target xml:lang="es-ES" state="final">Importar contenido de una hoja de cálculo...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.MakeBloomPack" approved="yes">
         <source xml:lang="en">Make Bloom Pack...</source>
@@ -848,22 +848,22 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="CollectionTab.BookMenu.RenameBook">
         <source xml:lang="en">Rename Book</source>
         <note>ID: CollectionTab.BookMenu.RenameBook</note>
-        <target xml:lang="es-ES" state="translated">Cambiar el nombre de libro</target>
+        <target xml:lang="es-ES" state="translated">Cambiar nombre del libro</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem">
+      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem" approved="yes">
         <source xml:lang="en">Save as Bloom Pack (*.BloomPack)</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomPackContextMenuItem</note>
-        <target xml:lang="es-ES" state="translated">Guardar como Paquete de Bloom (.bloomPack)</target>
+        <target xml:lang="es-ES" state="final">Guardar como Paquete de Bloom (.bloomPack)</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem">
+      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem" approved="yes">
         <source xml:lang="en">Save as Single File (*.bloomSource)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
-        <target xml:lang="es-ES" state="translated">Guardar como archivo único (.bloomSource)...</target>
+        <target xml:lang="es-ES" state="final">Guardar como archivo único (.bloomSource)...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.ShowInFileExplorer">
         <source xml:lang="en">Show in File Explorer</source>
         <note>ID: CollectionTab.BookMenu.ShowInFileExplorer</note>
-        <target xml:lang="es-ES" state="translated">Mostrar en Explorador de Archivos</target>
+        <target xml:lang="es-ES" state="translated">Mostrar en el Explorador de Archivos</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip" approved="yes">
         <source xml:lang="en">Update Book</source>
@@ -935,10 +935,10 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: CollectionTab.ConfirmRecycleDescription</note>
         <target xml:lang="es-ES" state="final">El libro '{0}'</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.ContextMenu.More">
+      <trans-unit id="CollectionTab.ContextMenu.More" approved="yes">
         <source xml:lang="en">More</source>
         <note>ID: CollectionTab.ContextMenu.More</note>
-        <target xml:lang="es-ES" state="translated">Más</target>
+        <target xml:lang="es-ES" state="final">Más</target>
       </trans-unit>
       <trans-unit id="CollectionTab.ContextMenu.OpenFolderOnDisk" approved="yes">
         <source xml:lang="en">Open Folder on Disk</source>
@@ -946,10 +946,10 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>Obsolete for Bloom 5.3 and later</note>
         <target xml:lang="es-ES" state="final">Abrir carpeta en el disco</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.ContextMenu.Troubleshooting">
+      <trans-unit id="CollectionTab.ContextMenu.Troubleshooting" approved="yes">
         <source xml:lang="en">Troubleshooting</source>
         <note>ID: CollectionTab.ContextMenu.Troubleshooting</note>
-        <target xml:lang="es-ES" state="translated">Solución de problemas</target>
+        <target xml:lang="es-ES" state="final">Solución de problemas</target>
       </trans-unit>
       <trans-unit id="CollectionTab.EditBookButton" approved="yes">
         <source xml:lang="en">Edit this book</source>
@@ -978,11 +978,11 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>This string is obsolete as of Bloom version 5.3.</note>
         <target xml:lang="es-ES" state="final">Crear un Paquete de Bloom</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.MakeBloomPackOfShellBooks">
+      <trans-unit id="CollectionTab.MakeBloomPackOfShellBooks" approved="yes">
         <source xml:lang="en">Make Bloom Pack of Shell Books</source>
         <note>Shell Books are books that are meant to be translated.</note>
         <note>ID: CollectionTab.MakeBloomPackOfShellBooks</note>
-        <target xml:lang="es-ES" state="translated">Crear un Paquete de Bloom con libros prediseñados</target>
+        <target xml:lang="es-ES" state="final">Crear un Paquete de Bloom con libros prediseñados</target>
       </trans-unit>
       <trans-unit id="CollectionTab.MakeBookUsingThisTemplate" approved="yes">
         <source xml:lang="en">Make a book using this source</source>
@@ -1144,11 +1144,11 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>In a wizard, this button takes you to the previous step.</note>
         <target xml:lang="es-ES" state="final">Regresar</target>
       </trans-unit>
-      <trans-unit id="Common.BloomEnterpriseFeature">
+      <trans-unit id="Common.BloomEnterpriseFeature" approved="yes">
         <source xml:lang="en">Bloom Enterprise Feature</source>
         <note>ID: Common.BloomEnterpriseFeature</note>
         <note>This tooltip shows over the Bloom Enterprise icon.</note>
-        <target xml:lang="es-ES" state="translated">Función de Bloom Empresarial</target>
+        <target xml:lang="es-ES" state="final">Función de Bloom Empresarial</target>
       </trans-unit>
       <trans-unit id="Common.Cancel" approved="yes">
         <source xml:lang="en">Cancel</source>
@@ -1194,10 +1194,10 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: Common.Copy</note>
         <target xml:lang="es-ES" state="final">Copiar</target>
       </trans-unit>
-      <trans-unit id="Common.Copyright">
+      <trans-unit id="Common.Copyright" approved="yes">
         <source xml:lang="en">Copyright</source>
         <note>ID: Common.Copyright</note>
-        <target xml:lang="es-ES" state="translated">Derechos de autor</target>
+        <target xml:lang="es-ES" state="final">Derechos de autor</target>
       </trans-unit>
       <trans-unit id="Common.Delete" approved="yes">
         <source xml:lang="en">Delete</source>
@@ -1250,10 +1250,10 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>This is the same as Settings.Enterprise.LearnMore</note>
         <target xml:lang="es-ES" state="final">Aprender más</target>
       </trans-unit>
-      <trans-unit id="Common.License" sil:dynamic="true">
+      <trans-unit id="Common.License" sil:dynamic="true" approved="yes">
         <source xml:lang="en">License</source>
         <note>ID: Common.License</note>
-        <target xml:lang="es-ES" state="translated">Licencia</target>
+        <target xml:lang="es-ES" state="final">Licencia</target>
       </trans-unit>
       <trans-unit id="Common.Loading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Loading...</source>
@@ -1294,10 +1294,10 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: Common.Optional</note>
         <target xml:lang="es-ES" state="final">opcional</target>
       </trans-unit>
-      <trans-unit id="Common.Other" sil:dynamic="true">
+      <trans-unit id="Common.Other" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Other</source>
         <note>ID: Common.Other</note>
-        <target xml:lang="es-ES" state="translated">Otro</target>
+        <target xml:lang="es-ES" state="final">Otro</target>
       </trans-unit>
       <trans-unit id="Common.Pause" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Pause</source>
@@ -3391,10 +3391,10 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>"Report" as in "Report this problem to Bloom Support"</note>
         <target xml:lang="es-ES" state="final">Reportar</target>
       </trans-unit>
-      <trans-unit id="Errors.PathTooLong">
+      <trans-unit id="Errors.PathTooLong" approved="yes">
         <source xml:lang="en">Please move your collection closer to the root of your hard drive and try again. A file Bloom was working with had a path that was too long. This is usually caused by your collection being too deeply nested in many folders on your hard drive.</source>
         <note>ID: Errors.PathTooLong</note>
-        <target xml:lang="es-ES" state="translated">Por favor, mueva su colección más cerca a la raíz de su disco duro e inténtelo de nuevo. Uno de los archivos que Bloom estaba utilizando tenía una ruta de acceso demasiada larga. Esto se debe normalmente a que su colección está anidada muy profundamente en varias carpetas de su disco duro.</target>
+        <target xml:lang="es-ES" state="final">Por favor, mueva su colección más cerca a la raíz de su disco duro e inténtelo de nuevo. Uno de los archivos que Bloom estaba utilizando tenía una ruta de acceso demasiada larga. Esto se debe normalmente a que su colección está anidada muy profundamente en varias carpetas de su disco duro.</target>
       </trans-unit>
       <trans-unit id="Errors.BookProblem" approved="yes">
         <source xml:lang="en">Bloom had a problem showing this book. This doesn't mean your work is lost, but it does mean that something is out of date, is missing, or has gone wrong.</source>
@@ -3556,41 +3556,41 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: Errors.ZoneAlarm</note>
         <target xml:lang="es-ES" state="final">Bloom no puede iniciar correctamente. Este síntoma ha sido observado en computadoras con ZoneAlarm instalado. Nota: Desactivar ZoneAlarm no resuelve este problema. Reiniciar el programa con ZoneAlarm apagado tampoco resuelve el problema. Para resolverlo hay que desinstalar ZoneAlarm.</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.FontOkay">
+      <trans-unit id="FontInformationPane.FontOkay" approved="yes">
         <source xml:lang="en">The metadata inside this font indicates that it is legal to use for all Bloom purposes.</source>
         <note>ID: FontInformationPane.FontOkay</note>
         <note>This shows in the popup when hovering over a useable font.</note>
-        <target xml:lang="es-ES" state="translated">Los metadatos de esta fuente indican que su uso es legal para todos los fines de Bloom.</target>
+        <target xml:lang="es-ES" state="final">Los metadatos de esta fuente indican que su uso es legal para todos los fines de Bloom.</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.FontUnknown">
+      <trans-unit id="FontInformationPane.FontUnknown" approved="yes">
         <source xml:lang="en">Bloom cannot determine what rules govern the use of this font. Please read the license and make sure it allows embedding in ebooks and the web. Before publishing to bloomlibrary.org, you will probably have to make a special request to the Bloom team to investigate this font so that we can make sure we won't get in trouble for hosting it.</source>
         <note>ID: FontInformationPane.FontUnknown</note>
         <note>This shows in the popup when hovering over a font when Bloom can't determine if it is useable legally.</note>
-        <target xml:lang="es-ES" state="translated">Bloom no puede determinar qué normas rigen el uso de esta fuente. Por favor, lea la licencia y asegúrese de que permite su incrustación en libros electrónicos y en la web. Antes de publicar en bloomlibrary.org, probablemente tendrá que hacer una petición especial al equipo de Bloom para que investiguen esta fuente y así asegurarnos de que no tendremos problemas por alojarla.</target>
+        <target xml:lang="es-ES" state="final">Bloom no puede determinar qué normas rigen el uso de esta fuente. Por favor, lea la licencia y asegúrese de que permite su incrustación en libros electrónicos y en la web. Antes de publicar en bloomlibrary.org, probablemente tendrá que hacer una petición especial al equipo de Bloom para que investiguen esta fuente y así asegurarnos de que no tendremos problemas por alojarla.</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.FontFormatUnsuitable">
+      <trans-unit id="FontInformationPane.FontFormatUnsuitable" approved="yes">
         <source xml:lang="en">This font is in a file format that Bloom cannot use for ebooks. Please use a different font.</source>
         <note>ID: FontInformationPane.FontFormatUnsuitable</note>
         <note>This shows in the popup when hovering over a font that Bloom can't legally host on its website.</note>
-        <target xml:lang="es-ES" state="translated">Esta fuente está en un formato de archivo que Bloom no puede utilizar para los libros electrónicos. Por favor, utilice una fuente diferente.</target>
+        <target xml:lang="es-ES" state="final">Esta fuente está en un formato de archivo que Bloom no puede utilizar para los libros electrónicos. Por favor, utilice una fuente diferente.</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.FontUnsuitable">
+      <trans-unit id="FontInformationPane.FontUnsuitable" approved="yes">
         <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web. Please use a different font.</source>
         <note>ID: FontInformationPane.FontUnsuitable</note>
         <note>This shows in the popup when hovering over a font that Bloom can't legally host on its website.</note>
-        <target xml:lang="es-ES" state="translated">Los metadatos de esta fuente nos indican que no puede ser incrustada gratuitamente en libros electrónicos y en la web. Por favor, utilice otro fuente.</target>
+        <target xml:lang="es-ES" state="final">Los metadatos de esta fuente nos indican que no puede ser incrustada gratuitamente en libros electrónicos y en la web. Por favor, utilice otro fuente.</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.Styles">
+      <trans-unit id="FontInformationPane.Styles" approved="yes">
         <source xml:lang="en">Styles</source>
         <note>ID: FontInformationPane.Styles</note>
         <note>This shows in the popup before the types of variants in the font (e.g. bold, italic).</note>
-        <target xml:lang="es-ES" state="translated">Estilos</target>
+        <target xml:lang="es-ES" state="final">Estilos</target>
       </trans-unit>
-      <trans-unit id="FontInformationPane.Version">
+      <trans-unit id="FontInformationPane.Version" approved="yes">
         <source xml:lang="en">Version</source>
         <note>ID: FontInformationPane.Version</note>
         <note>This shows in the popup before the font's version number.</note>
-        <target xml:lang="es-ES" state="translated">Versión</target>
+        <target xml:lang="es-ES" state="final">Versión</target>
       </trans-unit>
       <trans-unit id="HelpMenu.AskAQuestionMenuItem" approved="yes">
         <source xml:lang="en">Ask a Question</source>
@@ -4186,10 +4186,10 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>Obsolete in 5.3+</note>
         <target xml:lang="es-ES" state="final">Puede utilizar aplicaciones para compartir como correo electrónico, Dropbox y WhatsApp para compartir su archivo .bloomd con otro dispositivo.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.BloomPUB.Hint.Heading" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.BloomPUB.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sharing BloomPUB Files</source>
         <note>ID: PublishTab.Android.BloomPUB.Hint.Heading</note>
-        <target xml:lang="es-ES" state="translated">Compartir archivos BloomPUB</target>
+        <target xml:lang="es-ES" state="final">Compartir archivos BloomPUB</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.BloomPUB.Hint" sil:dynamic="true">
         <source xml:lang="en">You can use SD cards and sharing apps like email, Google Drive, and WhatsApp to get your .bloompub file onto a device that has &lt;a href="https://bloomlibrary.org/page/create/bloom-reader"&gt;Bloom Reader&lt;/a&gt; (Android) or &lt;a href="https://github.com/BloomBooks/bloompub-viewer/releases"&gt;BloomPUB Viewer&lt;/a&gt; (Windows). You can also create a stand-alone app using &lt;a href="https://software.sil.org/readingappbuilder/"&gt;Reading App Builder&lt;/a&gt;.</source>
