@@ -5287,15 +5287,15 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>{0} is replaced by the filename extension of the font (something like ".ttc").  Do not try to translate it.</note>
         <target xml:lang="es-ES" state="translated">Bloom no puede publicar libros electrónicos con este formato de fuente ({0}).</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem.License">
+      <trans-unit id="PublishTab.FontProblem.License" approved="yes">
         <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web.</source>
         <note>ID: PublishTab.FontProblem.License</note>
-        <target xml:lang="es-ES" state="translated">Los metadatos de esta fuente nos indican que no puede ser incorporada gratuitamente en los libros electrónicos y en la web.</target>
+        <target xml:lang="es-ES" state="final">Los metadatos de esta fuente nos indican que no puede ser incorporada gratuitamente en los libros electrónicos y en la web.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem.Result">
+      <trans-unit id="PublishTab.FontProblem.Result" approved="yes">
         <source xml:lang="en">BloomLibrary.org will display the PDF and allow downloads for translation, but cannot offer the “READ” button or downloads for BloomPUB or ePUB.</source>
         <note>ID: PublishTab.FontProblem.Result</note>
-        <target xml:lang="es-ES" state="translated">BloomLibrary.org mostrará el PDF y permitirá las descargas para la traducción, pero no puede ofrecer el botón "LEER" ni las descargas para BloomPUB o ePUB.</target>
+        <target xml:lang="es-ES" state="final">BloomLibrary.org mostrará el PDF y permitirá las descargas para la traducción, pero no puede ofrecer el botón "LEER" ni las descargas para BloomPUB o ePUB.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Gaurantee" approved="yes">
         <source xml:lang="en">By uploading, you confirm your agreement with the Bloom Library Terms of Use and grant the rights it describes.</source>
