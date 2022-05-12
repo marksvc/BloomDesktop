@@ -4191,17 +4191,17 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: PublishTab.Android.BloomPUB.Hint.Heading</note>
         <target xml:lang="es-ES" state="final">Compartir archivos BloomPUB</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.BloomPUB.Hint" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.BloomPUB.Hint" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can use SD cards and sharing apps like email, Google Drive, and WhatsApp to get your .bloompub file onto a device that has &lt;a href="https://bloomlibrary.org/page/create/bloom-reader"&gt;Bloom Reader&lt;/a&gt; (Android) or &lt;a href="https://github.com/BloomBooks/bloompub-viewer/releases"&gt;BloomPUB Viewer&lt;/a&gt; (Windows). You can also create a stand-alone app using &lt;a href="https://software.sil.org/readingappbuilder/"&gt;Reading App Builder&lt;/a&gt;.</source>
         <note>ID: PublishTab.Android.BloomPUB.Hint</note>
         <note>The 3 links should be left untranslated as well as the file type '.bloompub'. Beware of machine translations that eliminate the 'b'.</note>
-        <target xml:lang="es-ES" state="translated">Puede utilizar tarjetas SD y aplicaciones para compartir como el correo electrónico, Google Drive y WhatsApp para introducir su archivo .bloompub a un dispositivo que tenga &lt;a href="https://bloomlibrary.org/page/create/bloom-reader"&gt;Bloom Reader&lt;/a&gt;(Android) o &lt;a href="https://github.com/BloomBooks/bloompub-viewer/releases"&gt;BloomPub Viewer&lt;/a&gt; (Windows). También puede crear una aplicación independiente utilizando &lt;a href="https://software.sil.org/readingappbuilder/"&gt;Reading App Builder&lt;/a&gt;.</target>
+        <target xml:lang="es-ES" state="final">Puede utilizar tarjetas SD y aplicaciones para compartir como el correo electrónico, Google Drive y WhatsApp para introducir su archivo .bloompub a un dispositivo que tenga &lt;a href="https://bloomlibrary.org/page/create/bloom-reader"&gt;Bloom Reader&lt;/a&gt;(Android) o &lt;a href="https://github.com/BloomBooks/bloompub-viewer/releases"&gt;BloomPub Viewer&lt;/a&gt; (Windows). También puede crear una aplicación independiente utilizando &lt;a href="https://software.sil.org/readingappbuilder/"&gt;Reading App Builder&lt;/a&gt;.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.BloomPUB.Hint2" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.BloomPUB.Hint2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Note that when you upload your book to &lt;a href="https://bloomlibrary.org/"&gt;BloomLibrary.org&lt;/a&gt;, we will create a BloomPUB file for you that people can download.</source>
         <note>ID: PublishTab.Android.BloomPUB.Hint2</note>
         <note>The link should be left untranslated as well as the file type 'BloomPUB'.</note>
-        <target xml:lang="es-ES" state="translated">Tenga en cuenta que cuando suba su libro a &lt;a href="https://bloomlibrary.org/"&gt;Bloom Library.org&lt;/a&gt; crearemos un archivo BloomPUB que otros podrán descargar.</target>
+        <target xml:lang="es-ES" state="final">Tenga en cuenta que cuando suba su libro a &lt;a href="https://bloomlibrary.org/"&gt;Bloom Library.org&lt;/a&gt; crearemos un archivo BloomPUB que otros podrán descargar.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.USB.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en"> USB is Difficult</source>
@@ -4258,10 +4258,10 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>Obsolete in 5.3+</note>
         <target xml:lang="es-ES" state="final">Guardar el archivo de Bloom Reader</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.ChooseBloomPUBFile" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.ChooseBloomPUBFile" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Save BloomPUB File</source>
         <note>ID: PublishTab.Android.ChooseBloomPUBFile</note>
-        <target xml:lang="es-ES" state="translated">Guardar el archivo BloomPUB</target>
+        <target xml:lang="es-ES" state="final">Guardar el archivo BloomPUB</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseLandscapeForMotion" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose landscape to activate Motion Book mode</source>
@@ -4318,7 +4318,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">This book has text in a font named \"{0}\". Bloom cannot publish this font's format ({1}).</source>
         <note>ID: PublishTab.Android.File.Progress.IncompatibleFontFileFormat</note>
         <note>{0} is a font name, {1} is a file extension (for example: .ttc)</note>
-        <target xml:lang="es-ES" state="translated">Este libro tiene texto en una fuente llamado \"{0}\". Bloom no puede utilizar una fuente en el formato de archivo de esta fuente.</target>
+        <target xml:lang="es-ES" state="translated">Este libro tiene texto en una fuente llamada \"{0}\". Bloom no puede utilizar una fuente en el formato de archivo de esta fuente ({1}).</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.LicenseForbids" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book has text in a font named \"{0}\". The license for \"{0}\" does not permit Bloom to embed the font in the book.</source>
@@ -4595,11 +4595,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: PublishTab.BodyOnlyRadio</note>
         <target xml:lang="es-ES" state="final">Interior del librito</target>
       </trans-unit>
-      <trans-unit id="PublishTab.bloomPUBButton">
+      <trans-unit id="PublishTab.bloomPUBButton" approved="yes">
         <source xml:lang="en">BloomPUB</source>
         <note>ID: PublishTab.bloomPUBButton</note>
         <note>This is the label under the BloomPUB icon on the left side of the Publish screen.</note>
-        <target xml:lang="es-ES" state="translated">BloomPUB</target>
+        <target xml:lang="es-ES" state="final">BloomPUB</target>
       </trans-unit>
       <trans-unit id="PublishTab.BodyOnlyRadio-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Make a booklet from the inside pages of the book.\nPages will be laid out and reordered so that when you fold it, you'll have a booklet.\n</source>
@@ -5270,22 +5270,22 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: PublishTab.Upload.FinalUploadFailureNotice</note>
         <target xml:lang="es-ES" state="final">Lo sentimos, "{0}" no cargó exitosamente. Esto puede ser causado por problemas transitorios con nuestros servidores. Vale la pena intentarlo de nuevo en una o dos horas. Por favor, avísenos si este probleme suele repetirse.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem">
+      <trans-unit id="PublishTab.FontProblem" approved="yes">
         <source xml:lang="en">This book has a font, “{0}”, which has the following problem:</source>
         <note>ID: PublishTab.FontProblem</note>
         <note>{0} is replaced by the name of the font.  Do not try to translate it.</note>
-        <target xml:lang="es-ES" state="translated">Este libro tiene una fuente, "{0}", que tiene el siguiente problema:</target>
+        <target xml:lang="es-ES" state="final">Este libro tiene una fuente, "{0}", que tiene el siguiente problema:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.FontProblem.Exception">
+      <trans-unit id="PublishTab.FontProblem.Exception" approved="yes">
         <source xml:lang="en">The font's file cannot be processed by Bloom and may be corrupted or not a font file.</source>
         <note>ID: PublishTab.FontProblem.Exception</note>
-        <target xml:lang="es-ES" state="translated">El archivo de la fuente no puede ser procesado por Bloom y puede estar corrupto o no ser un archivo de fuente.</target>
+        <target xml:lang="es-ES" state="final">El archivo de la fuente no puede ser procesado por Bloom y puede estar corrupto o no ser un archivo de fuente.</target>
       </trans-unit>
       <trans-unit id="PublishTab.FontProblem.Format">
         <source xml:lang="en">Bloom cannot publish ebooks with this font's format ({0}).</source>
         <note>ID: PublishTab.FontProblem.Format</note>
         <note>{0} is replaced by the filename extension of the font (something like ".ttc").  Do not try to translate it.</note>
-        <target xml:lang="es-ES" state="translated">Bloom no puede publicar libros electrónicos con el formato de esta fuente ({0}).</target>
+        <target xml:lang="es-ES" state="translated">Bloom no puede publicar libros electrónicos con este formato de fuente ({0}).</target>
       </trans-unit>
       <trans-unit id="PublishTab.FontProblem.License">
         <source xml:lang="en">The metadata inside this font tells us that it may not be embedded for free in ebooks and the web.</source>
