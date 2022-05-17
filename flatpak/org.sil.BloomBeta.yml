@@ -275,6 +275,9 @@ modules:
                           .assets | map(select(.name|endswith(".tar.gz"))) | first | .browser_download_url
 
           - name: mono5-sil
+            config-opts:
+              # Build successfully with gcc >9.
+              - --enable-minimal=aot
             cleanup:
                 # Not cleaning away lib/mono/4.5/mcs* because mcs.exe is used in SFM import.
                 - "/include"
