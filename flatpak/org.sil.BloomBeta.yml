@@ -350,6 +350,8 @@ modules:
                 - type: script
                   commands:
                       - NOCONFIGURE=1 ./bootstrap-2.12
+            modules:
+                - shared-modules/gtk2/gtk2.json
           - name: mono5-sil-msbuild
             # It was challenging to build msbuild from source. Other projects
             # appear to fetch binaries rather than build msbuild. Following that.
