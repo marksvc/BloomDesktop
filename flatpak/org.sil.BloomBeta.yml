@@ -25,6 +25,8 @@ app-id: org.sil.BloomBeta
 runtime: org.gnome.Platform
 runtime-version: "41"
 sdk: org.gnome.Sdk
+sdk-extensions:
+    - org.freedesktop.Sdk.Extension.node16
 
 finish-args:
     - --socket=x11
@@ -87,6 +89,7 @@ modules:
     - name: BloomDesktop
       buildsystem: simple
       build-options:
+          append-path: /usr/lib/sdk/node16/bin
           env:
               MONO_PREFIX: "/app"
               MONO_SILPKGDIR: "/app"
@@ -234,27 +237,6 @@ modules:
             options:
                 - --verbose
       modules:
-          - name: node
-            sources:
-                - type: archive
-                  url: https://nodejs.org/dist/v16.13.1/node-v16.13.1.tar.xz
-                  sha256: 4c23004fd75eaf799ad8e76fe34f53e0327f433d4acbfc883396f72e96cc63ad
-                  x-checker-data:
-                      type: json
-                      url: https://nodejs.org/dist/index.json
-                      tag-query: >-
-                          map(select(.version|startswith("v16."))) | sort_by(.date) | last | .version
-                      version-query: >-
-                          $tag | sub("^[vV]"; "")
-                      url-query: >-
-                          "https://nodejs.org/dist/\($tag)/node-\($tag).tar.xz"
-                      is-main-source: true
-            config-opts:
-                - --openssl-use-def-ca-store
-                - --shared-openssl
-                - --shared-zlib
-                - --with-intl=system-icu
-
           - name: yarn
             buildsystem: simple
             build-commands:
